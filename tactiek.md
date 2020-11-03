@@ -10,7 +10,7 @@ De volgende stakeholders zijn relevant:
 -	Geonovum
 -	Werkgroep GAB – Gemeenschappelijke Afspraken Berichten
 
-Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In dat geval zijn er ook vele andere overheidsorganisaties die MIM gaan toepassen. Primair zal Forum Standaardisatie worden benaderd of MIM kan worden toegevoegd aan de Pas Toe Of Leg Uit Lijst van het Forum Standaardisatie
+Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In dat geval zijn er ook vele andere overheidsorganisaties die MIM gaan toepassen. Primair zal Forum Standaardisatie worden benaderd of MIM kan worden toegevoegd aan de Pas Toe Of Leg Uit Lijst van het Forum Standaardisatie.
 
 
 ###	Architectuur
