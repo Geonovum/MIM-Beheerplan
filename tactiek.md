@@ -1,5 +1,3 @@
-## Tactiek
-
 ###	Community
 
 De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
