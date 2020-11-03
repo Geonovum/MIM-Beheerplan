@@ -1,4 +1,4 @@
 # MIM-Beheerplan
 MIM-Beheerplan
 
-Voor de webv3ersie klik [hier](https://geonovum.github.io/MIM-Beheerplan/)
+Voor de webversie klik [hier](https://geonovum.github.io/MIM-Beheerplan/)
