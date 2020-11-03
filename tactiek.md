@@ -56,11 +56,13 @@ Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum w
 
 ####	Kwaliteitsbeleid en benchmarking
 
+figuur:
 
 ![Kwaliteit](media/kwaliteit.png)
 
  
 ####	Adoptie en erkenning
+
 
 <div class='note'>
     BOMOS Adoptie & erkenning: Het opstellen van een adoptiestrategie om ervoor te zorgen dat de markt de standaarden adopteert. Onderdeel van een adoptiestrategie kan zijn het nastreven van erkenning door externe ’statusverleners’ bijvoorbeeld de ‘pas toe of leg uit’ lijst6, of om de standaard uit te brengen als NEN-document (NTA, NPR of norm).
