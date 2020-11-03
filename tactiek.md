@@ -4,8 +4,7 @@
 
 De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
 De volgende stakeholders zijn relevant:
--	DSO - Regieorganisatie
--	DSO – informatiehuizen
+-	DSO - Digitaal Stelsel Omgevingswet
 -	VNG Realisatie
 -	Kadaster
 -	Geonovum
@@ -50,7 +49,7 @@ De NORA-architecten hebben interesse in MIM en het idee is dat binnen de NORA-wi
 
 Het organiseren van auteursrecht en de vrijwaringen op het gebied van intellectueel eigendom zijn zaken die onder rechtenbeleid vallen. Het doel hiervan is de beschikbaarheid van de standaarden inzichtelijk te maken. Geonovum geeft aan hoe, voor wie op welke wijze de standaarden beschikbaar zijn door middel van Creative Commons. 
 
-Elk nieuw document dat vanaf 1 juni 2010 door Geonovum wordt gepubliceerd is voorzien van de volgende licentie: http://creativecommons.org/licenses/by-nd/3.0/nl/.
+Elk nieuw document dat vanaf 1 juni 2010 door Geonovum wordt gepubliceerd is voorzien van de volgende licentie: https://creativecommons.org/licenses/by-nd/3.0/nl/.
 
 Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum wordt beheerd dienen te accepteren dat hun intellectueel eigendomsrecht altijd onder bovenstaande licentie door Geonovum beschikbaar wordt gesteld.
 
@@ -58,7 +57,7 @@ Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum w
 
 figuur:
 
-![Kwaliteit](media/kwaliteit.png)
+![kwaliteit](media/kwaliteit.png)
 
  
 ####	Adoptie en erkenning
