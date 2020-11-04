@@ -191,3 +191,9 @@ Bij het MIM wordt gebruik gemaakt van:
 MIM is een metamodel voor informatiemodelleren en is onafhankelijk van een modelleertaal of modelleersoftware. Er is voor MIM een toepassing in UML en in Linked Data uitgewerkt. Voor andere modelleertalen zou dat ook kunnen maar dat heeft nu geen aandacht. Voor wat betreft MIM toepassing in modelleersoftware is er voor Enterprise Architect van Sparx een serviceproduct gemaakt voor het inladen van een MIM profiel en toolbox. We hebben geen andere UML tooling geidentificeerd waarvoor binnen het MIM beheer een dergelijk serviceproduct ontwikkeld zou moeten worden. De markt kan hier ook zelf actie in ondernemen.
 Imvertor van Armatiek is een sofwaretool voor Model Driven generatie van afgeleide producten uit MIM modellen waaronder xml, json en rdf implementaties.
 
+### Validatie 
+
+Een gebruiker kan de conformiteit van de implementatie van MIM laten toetsen door expertbeoordeling, dit is echter nog neit formeel en structureel ingericht. 
+
+Er is een testsuite gemaakt voor het toetsen van MIM conformiteit. De test suite is vooralsnog alleen voor intern gebruik bij Geonovum.
+De IMvertor software van Armatiek heeft een technische MIM validatie. De validatie heeft geen status binnen het MIM beheer maar helpt het werkveld wel in een juiste MIM toepassing.
