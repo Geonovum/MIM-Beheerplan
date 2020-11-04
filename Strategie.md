@@ -35,22 +35,12 @@ Het MIM wordt beheerd door Geonovum onder de vlag van DSO. De MIM-standaard is n
 Het DSO-programma is opdrachtgever voor Tijdelijk Beheer. In het kader van het Tijdelijk Beheer wordt een stuurgroep ingericht waaraan Geonovum rapporteert. 
 
 
-In deze stuurgroep hebben zitting: 
-•	DSO-programma (opdrachtgever)
-•	Kadaster – Peter Landman
-•	Geonovum – Rob van de Velde
-•	Projectleider Tijdelijk Beheer Geonovum
+
 
 **Afstemmingsoverleg**
 
 Voor het MIM wordt er en afstemmingsoverleg ingesteld wat twee keer per jaar bij elkaar komt.  De rol van dit overleg is het op operationeel niveau delen van kennis over MIM.
-Aan dit overleg nemen deel: 
-
-•	Senior supplier	Rob van de Velde
-•	Senior user		< nog in te vullen>
-•	Senior user		VNG Realisatie – Theo Peters
-•	Senior user		Kadaster – Arjen Santema
-•	Beheerder MIM	<medewerker Geonovum, nog in te vullen>
+Aan dit overleg nemen de senior supplier en senior users deel, als ook de beheerder van MIM. 
 
 Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepassen.
 
@@ -63,4 +53,4 @@ Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepa
 
 
 Het tijdelijk beheer van MIM en HIM  wordt bekostigd vanuit het programma DSO. 
-Naast dit beheerplan is een offerte opgesteld met daarbij een rekenmodel wat gebaseerd is op dit beheerplan en een begroting oplevert voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld.
+Naast dit beheerplan is wordt periodiek een  offerte opgesteld met daarbij een rekenmodel wat gebaseerd is op dit beheerplan en een begroting oplevert voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld (mestal jaarlijks).
