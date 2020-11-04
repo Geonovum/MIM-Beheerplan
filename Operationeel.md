@@ -188,3 +188,6 @@ Bij het MIM wordt gebruik gemaakt van:
 -	Imvertor voor validatie. Dit wordt ook gebruikt als implementatietool.
 -	UML-tool voor ontwikkelen
 
+MIM is een metamodel voor informatiemodelleren en is onafhankelijk van een modelleertaal of modelleersoftware. Er is voor MIM een toepassing in UML en in Linked Data uitgewerkt. Voor andere modelleertalen zou dat ook kunnen maar dat heeft nu geen aandacht. Voor wat betreft MIM toepassing in modelleersoftware is er voor Enterprise Architect van Sparx een serviceproduct gemaakt voor het inladen van een MIM profiel en toolbox. We hebben geen andere UML tooling geidentificeerd waarvoor binnen het MIM beheer een dergelijk serviceproduct ontwikkeld zou moeten worden. De markt kan hier ook zelf actie in ondernemen.
+Imvertor van Armatiek is een sofwaretool voor Model Driven generatie van afgeleide producten uit MIM modellen waaronder xml, json en rdf implementaties.
+
