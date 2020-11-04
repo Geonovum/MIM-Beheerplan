@@ -3,14 +3,21 @@
 ###	Community
 
 De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
-De volgende stakeholders zijn relevant:
--	DSO - Digitaal Stelsel Omgevingswet
--	VNG Realisatie
+Een aantal relevante stakeholders:
+-	Het ministerie van BZK
+    - DSO - Digitaal Stelsel Omgevingswet
+    - BRO - Basisregistratie Ondergrond
+    - DisGeo - doorontwikkeling geobasisregistraties in samenhang
 -	Kadaster
 -	Geonovum
+-	VNG Realisatie
 -	Werkgroep GAB – Gemeenschappelijke Afspraken Berichten
 
-Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In dat geval zijn er ook vele andere overheidsorganisaties die MIM gaan toepassen. Primair zal Forum Standaardisatie worden benaderd of MIM kan worden toegevoegd aan de Pas Toe Of Leg Uit Lijst van het Forum Standaardisatie.
+Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In dat geval zijn er ook vele andere overheidsorganisaties die MIM (gaan) toepassen. 
+
+De NORA, de Nederlandse Overheid Referentie Architectuur refereert ook naar MIM als een gemeenschappelijk vetrekpuntvoor het opstellen van inforamtiemodellen (https://www.noraonline.nl/wiki/MIM_(Metamodel_voor_informatiemodellen) en noemt ook overheidsorganisaties die MIM toepassen.
+
+Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aan de Lijst met Aanabevolen standaerden van het Forum voor Standaardisatie https://www.forumstandaardisatie.nl/open-standaarden/aanbevolen).
 
 
 ###	Architectuur
