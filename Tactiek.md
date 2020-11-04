@@ -5,9 +5,9 @@
 De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
 Een aantal relevante stakeholders:
 -	Het ministerie van BZK
-    - DSO - Digitaal Stelsel Omgevingswet
-    - BRO - Basisregistratie Ondergrond
-    - DisGeo - doorontwikkeling geobasisregistraties in samenhang
+        - DSO - Digitaal Stelsel Omgevingswet
+        - BRO - Basisregistratie Ondergrond
+        - DisGeo - doorontwikkeling geobasisregistraties in samenhang
 -	Kadaster
 -	Geonovum
 -	VNG Realisatie
