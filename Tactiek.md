@@ -17,7 +17,7 @@ Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In 
 
 De NORA, de Nederlandse Overheid Referentie Architectuur refereert ook naar MIM als een gemeenschappelijk vetrekpuntvoor het opstellen van inforamtiemodellen (https://www.noraonline.nl/wiki/MIM_(Metamodel_voor_informatiemodellen) en noemt ook overheidsorganisaties die MIM toepassen.
 
-Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aan de Lijst met Aanabevolen standaerden van het Forum voor Standaardisatie https://www.forumstandaardisatie.nl/open-standaarden/aanbevolen).
+Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aan de Lijst met Aanbevolen standaarden van het Forum voor Standaardisatie https://www.forumstandaardisatie.nl/open-standaarden/aanbevolen).
 
 
 ###	Architectuur
