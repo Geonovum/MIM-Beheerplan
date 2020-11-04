@@ -16,7 +16,7 @@ De Handreiking voor Informatie Modelleren richt zich specifiek op informatiemode
 De HIM is als referentiemateriaal ook bruikbaar buiten het DSO-domein 
 
 
-![Toepassing MIM](media/toepassing_MIM.png)
+![Toepassing MIM](media/Toepassing_MIM.png)
  
  
 
