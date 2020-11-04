@@ -22,7 +22,7 @@ Het metamodel is bestemd voor informatiearchitecten die informatiemodellen maken
 Het metamodel is beschikbaar in versie 1.0. 
 
 
-Geonovum richt de beheerorganisatie in conform de BOMOS standaard. Voor meer informatie over BOMOS zie : https://www.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden.
+Geonovum richt de beheerorganisatie in conform de BOMOS standaard. Voor meer informatie over BOMOS zie : https://beslisboom.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden.
 
 BOMOS onderscheidt verschillende levenscyclusfases waarin een standaard zich kan bevinden, namelijk:
 1.	Creatie/ontwikkeling
