@@ -48,32 +48,47 @@ De MIM beheeragenda stemt waar nodig af met de algemene standaardenagenda.
 
 ####	Wijzigingsbeheer 
 
-Voor de registratie van meldingen wordt er een GitHub platform ingericht. Een moderator organiseert het beheer van de GitHub. Meldingen worden gecategoriseerd en in procedure genomen. De volgende procedurestappen worden voorgesteld (Conform GENERIEK Beheerdocument):
+ De volgende procedurestappen worden voorgesteld (Conform GENERIEK Beheerdocument):
 
-Status voorstel
-Beschrijving activiteiten
-NIEUW	Als een gebruiker een melding indient krijgt deze de status “nieuw”.
-TERUGKOPPELING	De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.
-ERKEND	Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem.  
-BEVESTIGD	Geonovum neemt deze melding mee in het wijzigingsproces van de standaard. 
-TOEGEWEZEN	De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard. 
-OPGELOST	De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.
-AFGESLOTEN	De melding wordt afgesloten in de volgende situaties: 
-•	wanneer de melding is opgenomen in de nieuwe versie van de standaard;
-•	wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;
-•	wanneer de fout niet meer relevant wordt geacht voor de standaard. 
-De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend. 
+Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen tot aanpassing van en fouten in MIM, indienen bij Geonovum. Wij geven inzicht in de ontvangen meldingen
+en bundelen de verzoeken tot een wijzigingsvoorstel in het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard. Het wijzigingsprotocol (zie volgende paragraaf ) beschrijft het wijzigingsproces  en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. 
+Voor de registratie van meldingen wordt er een GitHub platform ingericht. Een moderator organiseert het beheer van de GitHub. Meldingen worden gecategoriseerd en in procedure genomen.
+De volgende procedurestappen worden voorgesteld (Conform GENERIEK Beheerdocument):
+
+| Status voorstel    | Beschrijving activiteiten  |
+|---|---|
+| NIEUW  | Als een gebruiker een melding indient krijgt deze de status “nieuw”.  |
+| TERUGKOPPELING | De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.  |
+| ERKEND  |Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem.   |
+| BEVESTIGD  |  Geonovum neemt deze melding mee in het wijzigingsproces van de standaard.  |
+| TOEGEWEZEN | De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard.  |
+| OPGELOST | De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.  |
+| AFGESLOTEN | De melding wordt afgesloten in de volgende situaties: |
+||- wanneer de melding is opgenomen in de nieuwe versie van de standaard;|
+||- wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;|
+||- wanneer de fout niet meer relevant wordt geacht voor de standaard.   |
+|| De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend.  |
+	
+ 
+	
+	
+
+ 
 
 
 ####	Wijzigingsprotocol
 
-Met behulp van een wijzigingsprotocol voor de standaarden geeft Geonovum:
-•	inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;
-•	inzicht in de aangeboden wijzigingsvoorstellen;
-•	stabiliteit aan de standaard;
-•	continuïteit aan de standaard.
+Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in de standaarden plaatsvinden: het wijzigingsproces. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt en wanneer dezeverwacht mogen worden. 
 
-Het wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in Figuur 1.
+Met behulp van een wijzigingsprotocol voor de standaarden geeft Geonovum:
+
+- inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;
+- inzicht in de aangeboden wijzigingsvoorstellen;
+- stabiliteit aan de standaard;
+- continuïteit aan de standaard.
+
+Het wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in Figuur 1. Iedere fase kent vaste stappen die tijdgebonden zijn met een vaste datum van inwerkingtreding van de nieuwe versie van de standaard. De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. In deze fase wordt de inhoudelijke correctheid, de technische haalbaarheid en impact van de voorgestelde wijzigingen getoetst, als de aard van de wijziging dit noodzakelijk maakt. Er is een wezenlijk verschil met besluitvorming. Bij het toetsen wordt de inhoudelijke correctheid vastgesteld, bij besluitvorming de wenselijkheid om de voorgestelde wijzigingen door te voeren. 
+Het resultaat van de fase Toetsing is een (mogelijk aangepast) volledig wijzigingsvoorstel voor de standaard, dat is gevrijwaard van fouten en waarvan de technische haalbaarheid en impact is getoetst.
 
 
 ![wijzigingsproces](media/wijzigingsproces.png)
@@ -83,16 +98,23 @@ Fasen wijzigingsproces
 
 ####	Versiebeheer
 
+Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingendocumenteren wij en leggen wij vast in de uitgebrachte versie van de standaard als release notes. Degebruiker kan zo nagaan op welke plaatsen de standaard gewijzigd is.
+
 Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
-•	X-wijzigingen Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.
-Frequentie: maximaal 1 keer per jaar.
-•	Y-wijzigingen Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.
-Frequentie: maximaal 2 keer per jaar.
-•	Z-wijzigingen Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.
-Frequentie: zo spoedig mogelijk na constatering.
 
-Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar.
+| Type | Toelichting  |Frequentie|
+|---|---|---|
+| X-wijzigingen   | Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.  |maximaal 1 keer per jaar.  |
+| Y-wijzigingen  | Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.  |  maximaal 2 keer per jaar.  |
+| Z-wijzigingen  |Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.   | zo spoedig mogelijk na constatering.  |
 
+
+Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar. en zijn vindbaar via de Geonovum website en het technisch register (http://register.geostandaarden.nl/). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
+
+Voor het onderhoud en de ondersteuning van een oude versie van een standaard gelden de volgende uitgangspunten:
+
+-  Aan een oude versie worden geen nieuwe features toegevoegd na het uitbrengen van een nieuwe versie.Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude standaard in behandeling genomen.
+- De opdrachtgever stelt met advies van de beheerder vast hoelang een oude versie wordt ondersteund en wanneer hij komt te vervallen (decline). Dit betekent dat vragen over het gebruik van de standaard worden beantwoord. De maximale ondersteuningstermijn is twee jaar. Daarna blijft de versie van de standaard wel beschikbaar, maar biedt Geonovum geen ondersteuning meer. 
 
 ###	Documentatie
 
