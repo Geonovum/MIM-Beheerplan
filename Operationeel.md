@@ -2,6 +2,13 @@
 
 
 ###	Initiatie
+
+<div class='note'>
+    BOMOS Initiatie: 
+    
+     Identificatie van nieuwe ideeën (voor bijvoorbeeld een nieuwe specificatie en nieuwe werkgroep) en alle activiteiten die horen bij het succesvol optuigen daarvan (bijv. belangenanalyse, business case, agendering).
+</div>
+
 Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binnen via de helpdesk of de MIM stakeholders georganiseerd in de werkgroep. Kleine wijzigingen die nog backwards compatible zijn met de actuele MIM versie worden binnen het tijdelijk beheer opgelost. Indien de wijziging een grote impact op de standaard heeft valt dit buiten de reguliere beheeropdracht. De beheerorganisatie treedt wel faciliterend op door in dat geval het proces te organiseren om via een additionele opdracht het adaptief en additief onderhoud te kunnen uitvoeren. De beheerorganisatie zelf is al ingericht om het werkveld te betrekken.
 
 
@@ -9,6 +16,12 @@ Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binn
  
 
 ###	Wensen en Eisen
+
+<div class='note'>
+    BOMOS Wensen en Eisen: 
+    
+     Opstellen van de wensen en eisen aan de te ontwikkelen en te beheren specificatie, ook wel bekend onder de naam Maintenance Requests (MRs).
+</div>
 
 Wensen en eisen komen binnen via de helpdesk en aangesloten stakeholders. Binnen het opgestelde plan voor versiebeheer wordt een beheeragenda opgesteld. Binnen gekomen wijzigingsvoorstellen worden gecategoriseerd in:
 -	correctief
@@ -20,7 +33,16 @@ Correctief en preventief onderhoud wordt opgepakt door tijdelijk beheer en aldaa
 
 De impact van de wijziging op de standaard wordt bepaald. Versiebeheer protocol en beheeragenda bepalen wanneer een wijzigingsvoorstel wordt geïmplementeerd.
 
-###	Uitvoeren
+###	Uitvoering
+
+<div class='note'>
+    BOMOS Uitvoering: 
+    
+     De daadwerkelijk aanpassingen op basis van de conceptuele oplossingen doorvoeren in de specificatie en eventuele technische invulling.
+
+</div>
+
+
 
 *Helpdesk* 
 
@@ -35,6 +57,15 @@ Alle bij de helpdesk binnen gekomen vragen, dan wel wensen of fouten, worden ger
 Naast een overzicht van meldingen per standaard kan een gebruiker van een standaard ook per formulier een wens, eis of fout aan ons kenbaar maken. Iedere standaard heeft op de Geonovum hiervoor een formulier beschikbaar. Degene die een melding maakt, vult naast contactgegevens ook het voorstel tot wijziging met een toelichting daarop  in. Het is ook mogelijk bestanden aan de melding toe te voegen.
 
 ###	Ontwikkeling
+
+<div class='note'>
+    BOMOS Ontwikkeling: 
+    
+     Op conceptueel niveau de inhoudelijke uitwerking van oplossingen voor de ideeën, wensen en eisen opgesteld in voorafgaande fasen. Deze oplossingen zijn zoveel mogelijk los van technologieën bedoeld voor nadere uitwerking in een (nieuwe versie van) de specificatie.
+
+</div>
+
+
 
 ####	Standaardenagenda
 
@@ -117,6 +148,14 @@ Voor het onderhoud en de ondersteuning van een oude versie van een standaard gel
 - De opdrachtgever stelt met advies van de beheerder vast hoelang een oude versie wordt ondersteund en wanneer hij komt te vervallen (decline). Dit betekent dat vragen over het gebruik van de standaard worden beantwoord. De maximale ondersteuningstermijn is twee jaar. Daarna blijft de versie van de standaard wel beschikbaar, maar biedt Geonovum geen ondersteuning meer. 
 
 ###	Documentatie
+
+<div class='note'>
+    BOMOS Documentatie: 
+    
+     Verzorgen van passende neerslag van de resultaten van het primaire beheerproces. Niet alleen de beschikbaarheid van de specificaties, maar bijvoorbeeld ook de mogelijkheid bieden tot een historisch overzicht van verzoeken tot wijzigingen (maintenance requests) en de actuele status daarvan.
+
+</div>
+
 
 ####	Soorten documenten
 
