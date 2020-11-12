@@ -2,12 +2,19 @@
 
 ###	Community
 
+<div class='note'>
+    BOMOS  Community: 
+    
+    Het is essentieel dat de juiste stakeholders participeren in de community, en dat er niet een onevenwichtige community ontstaat waar slechts een bepaald type stakeholder (bijv. leverancier) in de community actief participeert. Deze taak behelst het bewaken en bevorderen van een goede samenstelling van de community.
+</div>
+
+
 De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
 Een aantal relevante stakeholders:
 -	Het ministerie van BZK
-        -  -DSO - Digitaal Stelsel Omgevingswet
-        -  - BRO - Basisregistratie Ondergrond
-        -  - DisGeo - doorontwikkeling geobasisregistraties in samenhang
+         - DSO - Digitaal Stelsel Omgevingswet
+         - BRO - Basisregistratie Ondergrond
+         - DisGeo - doorontwikkeling geobasisregistraties in samenhang
 -	Kadaster
 -	Geonovum
 -	VNG Realisatie
@@ -21,6 +28,13 @@ Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aa
 
 
 ###	Architectuur
+
+<div class='note'>
+    BOMOS  Architectuur: 
+    
+     Het uitzetten en toetsen van de inhoudelijke lijnen en het op hoofdlijnen bewaken van de samenhang tussen de inhoudelijke producten van de community, maar ook met producten van buiten de community zoals aangrenzende standaarden zodat overlap voorkomen wordt. Bijzondere aandacht verdient de relatie met de internationale standaardisatiecommunity.
+</div>
+
 
 ####	Internationale, Europese en nationale geostandaardisatiegemeenschap
 
@@ -53,9 +67,16 @@ De NORA-architecten hebben interesse in MIM en het idee is dat binnen de NORA-wi
 
 ####	Rechtenbeleid
 
+<div class='note'>
+    BOMOS  Rechtenbeleid: 
+    
+     Het voeren van beleid op het gebied van het intellectueel eigendom en copyright rondom de inhoudelijke producten van de community. Maar ook het toetredingsbeleid tot de community, en de rechten (en plichten) van de deelnemers in de community. Daarbij wordt mogelijk onderscheid gemaakt tussen de verschillende rollen die deelnemers in de community kunnen hebben, met andere rechten en plichten.
+
+</div>
+
 Het organiseren van auteursrecht en de vrijwaringen op het gebied van intellectueel eigendom zijn zaken die onder rechtenbeleid vallen. Het doel hiervan is de beschikbaarheid van de standaarden inzichtelijk te maken. Geonovum geeft aan hoe, voor wie op welke wijze de standaarden beschikbaar zijn door middel van Creative Commons. 
 
-Elk nieuw document dat vanaf 1 juni 2010 door Geonovum wordt gepubliceerd is voorzien van de volgende licentie: https://creativecommons.org/licenses/by-nd/3.0/nl/.
+Elk nieuw document dat vanaf 1 juni 2018 door Geonovum wordt gepubliceerd is voorzien van de volgende licentie: https://creativecommons.org/licenses/by-nd/4.0/deed.nl.
 
 Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum wordt beheerd dienen te accepteren dat hun intellectueel eigendomsrecht altijd onder bovenstaande licentie door Geonovum beschikbaar wordt gesteld.
 
