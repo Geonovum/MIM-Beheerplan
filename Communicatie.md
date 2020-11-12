@@ -12,6 +12,7 @@ Binnen de context van bij het tijdelijk beheer betrokken organisaties, zie ook h
 Publicatie, informatie over MIM en MIM beheer wordt op de volgende manier opgezet:
 
 *MIM beheerpagina*
+
 Er is een MIM beheerpagina waar alle onderdelen van het MIM beheer toegankelijk zijn: de standaard, helpdesk, nieuws, ontwikkelingen, agenda, informatie over tooling etc.
 
 *MIM GitHub*

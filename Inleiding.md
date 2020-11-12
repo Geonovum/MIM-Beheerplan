@@ -11,9 +11,10 @@ Dit document beschrijft hoe Geonovum HIM  (Handreiking Informatie Modellering) e
 Informatie is een motor onder het functioneren van de overheid in Nederland. In het kader van onderlinge samenwerking, wisselen overheidsorganisaties veel informatie uit. Daarbij is het van groot belang dat we hetzelfde verstaan onder de gegevens die we gebruiken en dat we gemeenschappelijke afspraken maken over hoe we gegevens beschrijven en uitwisselen.
 Bij de ontwikkeling van het Digitaal Stelsel Omgevingswet (DSO) is duidelijk naar voren gekomen dat veel informatiebronnen bij elkaar komen in de zogenaamde informatiehuizen. Daarbij komen ook de wereld van de geografische gegevens en de wereld van de meer administratieve registraties bij elkaar. Dit biedt mogelijkheden om informatie slim te combineren maar maakte ook een aantal verschillende uitgangspunten zichtbaar in de werkwijzen van Kadaster, VNG Realisatie en Geonovum als het gaat om het modelleren van informatie.
 
-Voor inhoudelijke informatie over MIM, zie:
-https://www.geonovum.nl/geo-standaarden/metamodel-informatiemodellering 
 
+<div class='note'>
+    Voor inhoudelijke informatie over MIM, zie: https://www.geonovum.nl/geo-standaarden/metamodel-informatiemodellering 
+</div>
 
 Met het metamodel voor informatiemodellering hebben we een gemeenschappelijk vertrekpunt opgesteld voor het maken van informatiemodellen. Het model bevat duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt tegelijkertijd ruimte aan de verschillende niveaus van modellering. Bijzonder aan het model is dat de afspraken over meerdere bestuurslagen heen gaan.
 Geonovum kijkt bij het maken van informatiemodellen naar het Basismodel geo-informatie (NEN3610) en dit metamodel voor informatiemodellering.
@@ -22,7 +23,16 @@ Het metamodel is bestemd voor informatiearchitecten die informatiemodellen maken
 Het metamodel is beschikbaar in versie 1.0. 
 
 
-Geonovum richt de beheerorganisatie in conform de BOMOS standaard. Voor meer informatie over BOMOS zie : https://beslisboom.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden.
+### BOMOS
+
+![BOMOS](media/BOMOS.png)
+
+
+Geonovum richt de beheerorganisatie in conform BOMOS. Ook het beheer van MIM is op basis van BOMOS ingericht.
+Voor de beheerorganisatie heeft Geonovum een generiek beheerplan opgezet, waar het beherplan van MIM van is afgeleid (https://www.geonovum.nl/uploads/documents/Geonovum%20GENERIEK%20Beheerplan%20geo-standaarden%20v1.1.pdf) 
+
+
+Voor meer informatie over BOMOS zie : https://beslisboom.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden.
 
 BOMOS onderscheidt verschillende levenscyclusfases waarin een standaard zich kan bevinden, namelijk:
 1.	Creatie/ontwikkeling

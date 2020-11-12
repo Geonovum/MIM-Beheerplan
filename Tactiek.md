@@ -5,9 +5,9 @@
 De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
 Een aantal relevante stakeholders:
 -	Het ministerie van BZK
-        - DSO - Digitaal Stelsel Omgevingswet
-        - BRO - Basisregistratie Ondergrond
-        - DisGeo - doorontwikkeling geobasisregistraties in samenhang
+        -  -DSO - Digitaal Stelsel Omgevingswet
+        -  - BRO - Basisregistratie Ondergrond
+        -  - DisGeo - doorontwikkeling geobasisregistraties in samenhang
 -	Kadaster
 -	Geonovum
 -	VNG Realisatie
@@ -27,7 +27,6 @@ Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aa
 Op de website van Geonovum staat een overzicht van standaardisatieorganisaties op nationaal, Europees en internationaal niveau . Wij zijn op deze drie niveaus actief en daardoor op de hoogte van relevante ontwikkelingen.
 
 Geonovum is lid van het Forum Standaardisatie zodat een goede inbreng van de geo-standaarden naar de e-overheid en visa versa is geborgd. De voorbereidingen van de bijeenkomsten van ISO/TC 211 en CEN/TC 287 en stemmingen worden gedaan in de NEN normcommissie 351 240 Geo-informatie . Geonovum is voorzitter van deze normcommissie die bestaat uit een representatieve afvaardiging van Nederlandse belanghebbende organisaties.
-Het plan is om de MIM-standaard op te laten nemen op de PAS TOE OF LEG UIT lijst van het Forum voor standaardisatie
 
 Belangrijk uitgangspunt van Geonovum bij standaardisatie is de afstemming met internationale ontwikkelingen. Ontwikkelingen in standaarden op internationaal, Europees en nationaal niveau zijn van invloed op het beheer van de standaarden. Geonovum zorgt ervoor dat nieuwe en veranderde internationale geo-standaarden, indien relevant en door Nederland ondersteund, geadopteerd en erkend worden in Nederland. 
 
@@ -62,6 +61,14 @@ Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum w
 
 ####	Kwaliteitsbeleid en benchmarking
 
+
+<div class='note'>
+    BOMOS Kwaliteitsbeleid & benchmarken: 
+    
+    Belangrijk is om aandacht te hebben voor de kwaliteit van de standaarden door middel van een kwaliteitsbeleid. Dit kan resulteren in bijvoorbeeld het introduceren van een kwaliteitscheck voordat een standaard wordt gepubliceerd. Benchmarken is de activiteit om de eigen activiteiten te spiegelen aan vergelijkbare organisaties om mogelijke verbeteringen te identificeren.
+</div>
+
+
 figuur:
 
 ![kwaliteit](media/kwaliteit.png)
@@ -71,7 +78,9 @@ figuur:
 
 
 <div class='note'>
-    BOMOS Adoptie & erkenning: Het opstellen van een adoptiestrategie om ervoor te zorgen dat de markt de standaarden adopteert. Onderdeel van een adoptiestrategie kan zijn het nastreven van erkenning door externe ’statusverleners’ bijvoorbeeld de ‘pas toe of leg uit’ lijst6, of om de standaard uit te brengen als NEN-document (NTA, NPR of norm).
+    BOMOS Adoptie & erkenning: 
+    
+    Het opstellen van een adoptiestrategie om ervoor te zorgen dat de markt de standaarden adopteert. Onderdeel van een adoptiestrategie kan zijn het nastreven van erkenning door externe ’statusverleners’ bijvoorbeeld de ‘pas toe of leg uit’ lijst6, of om de standaard uit te brengen als NEN-document (NTA, NPR of norm).
 </div>
 
 

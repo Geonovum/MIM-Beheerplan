@@ -4,12 +4,12 @@
 ###	Initiatie
 Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binnen via de helpdesk of de MIM stakeholders georganiseerd in de werkgroep. Kleine wijzigingen die nog backwards compatible zijn met de actuele MIM versie worden binnen het tijdelijk beheer opgelost. Indien de wijziging een grote impact op de standaard heeft valt dit buiten de reguliere beheeropdracht. De beheerorganisatie treedt wel faciliterend op door in dat geval het proces te organiseren om via een additionele opdracht het adaptief en additief onderhoud te kunnen uitvoeren. De beheerorganisatie zelf is al ingericht om het werkveld te betrekken.
 
+
 ![beheerorganisatie](media/beheerorganisatie.png)
  
 
 ###	Wensen en Eisen
 
-Conform GENERIEK Beheerdocument
 Wensen en eisen komen binnen via de helpdesk en aangesloten stakeholders. Binnen het opgestelde plan voor versiebeheer wordt een beheeragenda opgesteld. Binnen gekomen wijzigingsvoorstellen worden gecategoriseerd in:
 -	correctief
 -	preventief
@@ -56,18 +56,18 @@ Voor de registratie van meldingen wordt er een GitHub platform ingericht. Een mo
 De volgende procedurestappen worden voorgesteld (Conform GENERIEK Beheerdocument):
 
 | Status voorstel    | Beschrijving activiteiten  |
-|---|---|
-| NIEUW  | Als een gebruiker een melding indient krijgt deze de status “nieuw”.  |
-| TERUGKOPPELING | De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.  |
-| ERKEND  |Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem.   |
-| BEVESTIGD  |  Geonovum neemt deze melding mee in het wijzigingsproces van de standaard.  |
-| TOEGEWEZEN | De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard.  |
-| OPGELOST | De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.  |
-| AFGESLOTEN | De melding wordt afgesloten in de volgende situaties: |
-||- wanneer de melding is opgenomen in de nieuwe versie van de standaard;|
-||- wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;|
-||- wanneer de fout niet meer relevant wordt geacht voor de standaard.   |
-|| De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend.  |
+|--------------------|----------------------------|
+| NIEUW              | Als een gebruiker een melding indient krijgt deze de status “nieuw”.  |
+| TERUGKOPPELING     | De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.  |
+| ERKEND             |Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem.   |
+| BEVESTIGD          |  Geonovum neemt deze melding mee in het wijzigingsproces van de standaard.  |
+| TOEGEWEZEN         | De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard.  |
+| OPGELOST           | De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.  |
+| AFGESLOTEN         | De melding wordt afgesloten in de volgende situaties: |
+|                    |- wanneer de melding is opgenomen in de nieuwe versie van de standaard;|
+|                    |- wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;|
+|                    |- wanneer de fout niet meer relevant wordt geacht voor de standaard.   |
+|                    | De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend.  |
 	
  
 	
@@ -102,11 +102,11 @@ Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies v
 
 Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
 
-| Type | Toelichting  |Frequentie|
-|---|---|---|
+| Type            | Toelichting  |Frequentie|
+|-----------------|---|---|
 | X-wijzigingen   | Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.  |maximaal 1 keer per jaar.  |
-| Y-wijzigingen  | Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.  |  maximaal 2 keer per jaar.  |
-| Z-wijzigingen  |Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.   | zo spoedig mogelijk na constatering.  |
+| Y-wijzigingen   | Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.  | maximaal 2 keer per jaar.  |
+| Z-wijzigingen   | Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.   | zo spoedig mogelijk na constatering.  |
 
 
 Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar. en zijn vindbaar via de Geonovum website en het technisch register (http://register.geostandaarden.nl/). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
@@ -124,10 +124,10 @@ Het MIM is een Meta Informatiemodel  en is een standaard waarbij door de term in
 
 De MIM standaard wordt formeel beschreven in een MIM standaarddocument. Publicatieomgeving hiervoor is Respec.
 
-MIM gerelateerde documenten worden gepubliceerd op de MIM pagina.
-dit betreft o.a.:
--	EA MIM-UMLprofiel
--	EA MIM-UMLtoolkit
+MIM gerelateerde documenten worden gepubliceerd op de MIM pagina van de website van Geonovum.
+dit betreft onder meer :
+-	het Enterprise Architect MIM-UMLprofiel
+-	de Enterprise Architect MIM-UMLtoolkit
 
 
 ####	Hulpmiddelen
@@ -138,6 +138,30 @@ dit betreft o.a.:
 -	Publicatie als ook presentaties, filmpjes, artikelen die de toepassing van de MIM toelichten;
 -	Meldingen, via GitHub
 -	Nieuwsberichten
+
+###	Technische hulpmiddelen
+
+Hulpmiddelen betreffen de tooling van de beheeromgeving. Geonovum maakt bij voorkeur gebruik van tooling die ook bij de andere door Geonovum beheerde standaarden worden gebruikt. 
+
+Bij het MIM wordt gebruik gemaakt van:
+-	Geonovum website voor MIM startpagina
+-	Respec voor publicatie omgeving, zoals consultatie en documentatie
+-	GitHub voor community-platform
+-	GitHub voor meldingen-platform, zoals beheer van de backlog
+-	Imvertor voor validatie. Dit wordt ook gebruikt als implementatietool.
+-	UML-tool voor ontwikkelen
+
+MIM is een metamodel voor informatiemodelleren en is onafhankelijk van een modelleertaal of modelleersoftware. Er is voor MIM een toepassing in UML en in Linked Data uitgewerkt. Voor andere modelleertalen zou dat ook kunnen maar dat heeft nu geen aandacht. Voor wat betreft MIM toepassing in modelleersoftware is er voor Enterprise Architect van Sparx een serviceproduct gemaakt voor het inladen van een MIM profiel en toolbox. We hebben geen andere UML tooling geidentificeerd waarvoor binnen het MIM beheer een dergelijk serviceproduct ontwikkeld zou moeten worden. De markt kan hier ook zelf actie in ondernemen.
+Imvertor van Armatiek is een sofwaretool voor Model Driven generatie van afgeleide producten uit MIM modellen waaronder xml, json en rdf implementaties.
+
+### Validatie 
+
+Een gebruiker kan de conformiteit van de implementatie van MIM laten toetsen door expertbeoordeling, dit is echter nog niett formeel en structureel ingericht. 
+
+Er is een testsuite gemaakt voor het toetsen van MIM conformiteit. De testsuite is vooralsnog alleen voor intern gebruik bij Geonovum, waarbij dit document wordt gehanteerd: https://github.com/Geonovum/MIM-Werkomgeving/tree/master/MIM-Conformiteitstoets/toetsdocumenten.
+
+De IMvertor software van Armatiek heeft een technische MIM validatie. De validatie heeft geen status binnen het MIM beheer maar helpt het werkveld wel in een juiste MIM toepassing.
+
 
 ###	Personeel
 
@@ -198,24 +222,4 @@ Het team met geo-adviseurs is verantwoordelijk voor de volgende taken; het taken
 
 -	conceptuele flexibiliteit, omgevingsbewustzijn, visionair, overtuigingskracht, projectmatig werken, plannen en organiseren, analytisch, consistent, advies- en communicatief vaardig, creatief
 
-###	Technische hulpmiddelen
 
-Hulpmiddelen betreft hier de tooling van de beheeromgeving. Geonovum maakt bij voorkeur gebruik van tooling die ook bij de andere door Geonovum beheerde standaarden worden gebruikt. 
-
-Bij het MIM wordt gebruik gemaakt van:
--	Geonovum website voor MIM startpagina
--	Respec voor publicatie omgeving, zoals consultatie en documentatie
--	GitHub voor community-platform
--	GitHub voor meldingen-platform, zoals beheer van de backlog
--	Imvertor voor validatie. Dit wordt ook gebruikt als implementatietool.
--	UML-tool voor ontwikkelen
-
-MIM is een metamodel voor informatiemodelleren en is onafhankelijk van een modelleertaal of modelleersoftware. Er is voor MIM een toepassing in UML en in Linked Data uitgewerkt. Voor andere modelleertalen zou dat ook kunnen maar dat heeft nu geen aandacht. Voor wat betreft MIM toepassing in modelleersoftware is er voor Enterprise Architect van Sparx een serviceproduct gemaakt voor het inladen van een MIM profiel en toolbox. We hebben geen andere UML tooling geidentificeerd waarvoor binnen het MIM beheer een dergelijk serviceproduct ontwikkeld zou moeten worden. De markt kan hier ook zelf actie in ondernemen.
-Imvertor van Armatiek is een sofwaretool voor Model Driven generatie van afgeleide producten uit MIM modellen waaronder xml, json en rdf implementaties.
-
-### Validatie 
-
-Een gebruiker kan de conformiteit van de implementatie van MIM laten toetsen door expertbeoordeling, dit is echter nog neit formeel en structureel ingericht. 
-
-Er is een testsuite gemaakt voor het toetsen van MIM conformiteit. De test suite is vooralsnog alleen voor intern gebruik bij Geonovum.
-De IMvertor software van Armatiek heeft een technische MIM validatie. De validatie heeft geen status binnen het MIM beheer maar helpt het werkveld wel in een juiste MIM toepassing.

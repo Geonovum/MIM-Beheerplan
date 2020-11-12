@@ -20,18 +20,22 @@ Binnen beheer wordt workshopmateriaal ontwikkeld. Dit materiaal kan ook door der
 ![Helpdesk](media/helpdesk.png)
 
 *Vragen*
+
 De gebruikersgroep van MIM is relatief beperkt. Een voorzichtige schatting is dat op enig moment niet meer dan 50 mensen actief MIM toepassen. Voor een deel kunnen vragen ook binnen de community opgelost worden. Het heeft daarom de voorkeur om alle vragen op het gebruikers platform te posten en ook derden de mogelijkheid te geven te antwoorden. De beheerorganisatie is echter bij alle vragen verantwoordelijk dat er een antwoord komt.
 
 Een startlijst met FAQ wordt opgesteld en aangevuld op basis van de binnenkomende vragen.
 
 *Meldingen*
+
 Opmerkingen over de inhoud van de MIM standaard mbt fouten of ontbrekende functionaliteit kunnen worden ingediend via de helpdesk. Lijst wordt gepubliceerd en de beheeragenda wanneer meldingen worden getoetst en of als wijzigingsvoorstel worden opgenomen en in procedure gaan.
 
 *Moderator*
+
 De moderator draagt er zorg voor dat het community-platform up-to-date is. Hij zorgt er ook voor dat meldingen worden doorgezet nar de product owners van de standaard. Hij plaats daarnaast zaken op de backlog van het beheer die direct opgepakt moeten worden door beheer en die niet via ontwikkeling lopen.
 De rol van moderator wordt opgepakt door de beheerder van de standaard.
 
 *Product owners*
+
 Dit zijn vertegenwoordigers van Kadaster, VNG Realisatie en Geonovum die samen verantwoordelijk zijn voor het coördineren van wijzigingen van de standaard op basis van behoeften uit het werkveld.  Ze onderhouden de backlog ten behoeve van ontwikkeling en maken daaruit voorstellen voor de inhoud van nieuwe versies van de standaard.
 
 ### Moduleontwikkeling (tooling) 
