@@ -29,7 +29,7 @@ Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aa
 #### Expertgroep
 
 De beheerorganisatie hecht grote waarde aan het actief meedenken van vertegenwoordigers uit de community. Hierdoor worden voorstellen tot aanpassingen beter gewogen. 
-Vertegenwoordigers van stakeholders kunnen zich bij de beheerorganisatie melden om deel te nemen aan de expertgroep. 
+Vertegenwoordigers van stakeholders kunnen zich bij de beheerorganisatie melden om deel te nemen aan de expertgroep. Deze deelname is vrijblijvend. Met de MIM-community wordt periodiek afgestemd of deze vertegenwoordiging in balans is met de hele community.
 De frequentie van vergaderen van de expertgroep is mede afhankelijk van de hoeveelheid issues en zwaarte van de uit te brengen nnieuwe versie.
 
 
