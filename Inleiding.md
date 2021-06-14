@@ -43,7 +43,7 @@ BOMOS onderscheidt verschillende levenscyclusfases waarin een standaard zich kan
 
 ![levenscyclus](media/levenscyclus.png)
 
-De MIM-standaard bevindt zich in de fase van implentatie en groei van de standaard. BOMOS zegt daar het volgende over:
+De MIM-standaard bevindt zich in de fase van implementatie en groei van de standaard. BOMOS zegt daar het volgende over:
 "In deze fase kiezen gebruikers bewust voor de implementatie van de
 standaard. In het beheer wordt ook rekening gehouden met het feit dat
 niet alle gebruikers beschikken over een volwaardig kennisniveau van de
