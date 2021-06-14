@@ -3,7 +3,7 @@
 
 ###	Leeswijzer
 
-Dit document is een plan op basis waarvan het tijdelijk beheer van de standaard Handreiking en Metamodel Informatiemodelleren (HIM/MIM) wordt uitgevoerd. Dit plan geeft inzicht in de inhoud en omvang van de relevante beheerprocessen en welke middelen en functieprofielen hiervoor nodig zijn.
+Dit document is een plan op basis waarvan het beheer van de standaard Handreiking en Metamodel Informatiemodelleren (HIM/MIM) wordt uitgevoerd. Dit plan geeft inzicht in de inhoud en omvang van de relevante beheerprocessen en welke middelen en functieprofielen hiervoor nodig zijn.
 Dit document beschrijft hoe Geonovum HIM  (Handreiking Informatie Modellering) en MIM (Metamodel Informatie Modellering) beheert.
 
 ### Standaarden voor geo-informatie
@@ -43,20 +43,17 @@ BOMOS onderscheidt verschillende levenscyclusfases waarin een standaard zich kan
 
 ![levenscyclus](media/levenscyclus.png)
 
-De MIM-standaard bevindt zich in de introductiefase. BOMOS zegt daar het volgende over:
-“In deze fase wordt gekozen voor een specifieke standaard om in een
-behoefte te voorzien. Tijdens deze fase zullen veel wijzigingen aan de orde
-zijn. De inrichting van beheer wordt belangrijk. De keuze kan bewust en
-expliciet worden gemaakt in besluitvorming om een standaard algemeen
-geldend te verklaren of door organische groei waarbij de adoptie geleidelijk
-plaatsvindt. Een voorbeeld van bewuste keuze is besluitvorming door de
-overheid om een standaard verplicht te stellen. Ook sectorafspraken of een
-besluit van het Forum Standaardisatie om een standaard op de ‘Pas toe of
-leg uit’-lijst te plaatsen, vallen hieronder. Van organische adoptie is sprake
-als diverse (individuele) partijen besluiten een standaard te gaan toepassen.
-Tijdens deze fase zullen veel wijzigingen aan de orde zijn. De inrichting voor
-beheer wordt belangrijk, net als de adoptie van de standaard bij de ‘early
-adopters’ van belang. Uw activiteiten zullen hierop gericht moeten zijn.”
+De MIM-standaard bevindt zich in de fase van implentatie en groei van de standaard. BOMOS zegt daar het volgende over:
+"In deze fase kiezen gebruikers bewust voor de implementatie van de
+standaard. In het beheer wordt ook rekening gehouden met het feit dat
+niet alle gebruikers beschikken over een volwaardig kennisniveau van de
+standaard. Beheer betekent in deze fase ook de ondersteuning en het
+informeren van de gebruikers. Marketingtermen als ‘early majority’ zijn in
+deze fase van toepassing. Uw activiteiten zijn gericht op meer professionele
+adoptie en professionalisatie van de open beheerprocessen, zodat bij
+opschaling van het gebruik alle partijen aangehaakt blijven en de processen
+transparant verlopen. Registraties van gebruikers/ afnemers/ experts etc.
+worden steeds belangrijker."
 
 
 

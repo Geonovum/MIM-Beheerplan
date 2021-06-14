@@ -112,10 +112,10 @@ figuur:
 </div>
 
 
-Een van de activiteiten in het beheer is het uitdragen van deze standaard, zodat meer en meer volgens dezelfde filosofie informatiemodellen worden ontwikkeld. Er wordt op dit moment aan de volgende wegen gedacht die kunnen worden bewandeld om tot een bredere adoptie en erkenning te komen:
-- Opname op de Pas Toe Of Leg Uit Lijst van het Forum Standaardisatie
-- Onderbrengen in de NORA-architectuur
-- Laten vaststellen door het platform Gemeenschappelijk Afspraken Berichtenverkeer (GAB) die het vervolgens als wijzigingsvoorstel indient bij de betrokken organisaties
+Een van de activiteiten in het beheer is het uitdragen van deze standaard, zodat meer en meer volgens dezelfde filosofie informatiemodellen worden ontwikkeld. Er worden op dit moment  de volgende wegen bewandeld om tot een bredere adoptie en erkenning te komen:
+- Verzoek tot opname op de Lijst met Aanbevolen Standaarden van het Forum Standaardisatie
+- Postionering in de NORA-architectuur
+
 
 
  
