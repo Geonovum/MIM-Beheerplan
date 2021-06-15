@@ -37,18 +37,19 @@ De HIM is als referentiemateriaal ook bruikbaar buiten het DSO-domein
 
 
 
-Het MIM wordt beheerd door Geonovum in opdracht van het ministerie van Binnenlandse Zaken en Koninrijksrelaties (BZK). De MIM-standaard is  breed toepasbaar. Kadaster en VNG Realisatie hebben daarbij samen met Geonovum aan de wieg gestaan. In het verdere beheer wordt met deze  en andere partijen de samenwerking opgezocht.
+MIM wordt beheerd door Geonovum in opdracht van het ministerie van Binnenlandse Zaken en Koninrijksrelaties (BZK). De MIM-standaard is breed toepasbaar. Kadaster en VNG Realisatie hebben daarbij samen met Geonovum aan de wieg gestaan. In het verdere beheer wordt met deze en andere partijen de samenwerking opgezocht.
 
 **Coördinatieoverleg**
 
-Het ministerie van BZK is opdrachtgever voor het  Beheer.  
+Het ministerie van BZK is opdrachtgever voor het beheer.  
+Periodiek wordt er met de opdrachtgever overlegd over de voortgang en de te plannen activiteiten.
 
 
 
 
 **Afstemmingsoverleg**
 
-Voor het MIM wordt er en afstemmingsoverleg ingesteld wat twee keer per jaar bij elkaar komt.  De rol van dit overleg is het op operationeel niveau delen van kennis over MIM.
+Voor het MIM wordt er een afstemmingsoverleg ingesteld wat twee keer per jaar bij elkaar komt.  De rol van dit overleg is het op operationeel niveau delen van kennis over MIM.
 Aan dit overleg nemen de senior supplier en senior users deel, als ook de beheerder van MIM. 
 
 Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepassen.
@@ -64,4 +65,4 @@ Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepa
 
 
 Het  beheer van MIM wordt bekostigd vanuit het ministerie van BZK. 
-Naast dit beheerplan is wordt periodiek een  offerte opgesteld met daarbij een rekenmodel wat gebaseerd is op dit beheerplan en een begroting oplevert voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld (mestal jaarlijks).
+Naast dit beheerplan is wordt periodiek een offerte opgesteld met daarbij een rekenmodel wat gebaseerd is op dit beheerplan en een begroting oplevert voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld (meestal jaarlijks).
