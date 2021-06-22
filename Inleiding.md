@@ -3,21 +3,21 @@
 
 ###	Leeswijzer
 
-Dit document is een plan op basis waarvan het beheer van de standaard Handreiking en Metamodel Informatiemodelleren (HIM/MIM) wordt uitgevoerd. Dit plan geeft inzicht in de inhoud en omvang van de relevante beheerprocessen en welke middelen en functieprofielen hiervoor nodig zijn.
-Dit document beschrijft hoe Geonovum HIM  (Handreiking Informatie Modellering) en MIM (Metamodel Informatie Modellering) beheert.
+Dit document is een plan op basis waarvan het beheer van de standaard Metamodel Informatiemodellering (MIM) wordt uitgevoerd. Dit plan geeft inzicht in de inhoud en omvang van de relevante beheerprocessen en welke middelen en functieprofielen hiervoor nodig zijn.
+Dit document beschrijft hoe Geonovum MIM (Metamodel Informatie Modellering) beheert.
 
-### Standaarden voor geo-informatie
+### Standaarden voor informatie
 
 Informatie is een motor onder het functioneren van de overheid in Nederland. In het kader van onderlinge samenwerking, wisselen overheidsorganisaties veel informatie uit. Daarbij is het van groot belang dat we hetzelfde verstaan onder de gegevens die we gebruiken en dat we gemeenschappelijke afspraken maken over hoe we gegevens beschrijven en uitwisselen.
 Bij de ontwikkeling van het Digitaal Stelsel Omgevingswet (DSO) is duidelijk naar voren gekomen dat veel informatiebronnen bij elkaar komen in de zogenaamde informatiehuizen. Daarbij komen ook de wereld van de geografische gegevens en de wereld van de meer administratieve registraties bij elkaar. Dit biedt mogelijkheden om informatie slim te combineren maar maakte ook een aantal verschillende uitgangspunten zichtbaar in de werkwijzen van Kadaster, VNG Realisatie en Geonovum als het gaat om het modelleren van informatie.
 
 
 <div class='note'>
-    Voor inhoudelijke informatie over MIM, zie: https://www.geonovum.nl/geo-standaarden/metamodel-informatiemodellering 
+ Voor inhoudelijke informatie over MIM, zie: https://www.geonovum.nl/geo-standaarden/metamodel-informatiemodellering 
 </div>
 
-Met het metamodel voor informatiemodellering hebben we een gemeenschappelijk vertrekpunt opgesteld voor het maken van informatiemodellen. Het model bevat duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt tegelijkertijd ruimte aan de verschillende niveaus van modellering. Bijzonder aan het model is dat de afspraken over meerdere bestuurslagen heen gaan.
-Geonovum kijkt bij het maken van informatiemodellen naar het Basismodel geo-informatie (NEN3610) en dit metamodel voor informatiemodellering.
+Met MIM hebben we een gemeenschappelijk vertrekpunt opgesteld voor het maken van informatiemodellen. Het model bevat duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt tegelijkertijd ruimte aan de verschillende niveaus van modellering. Bijzonder aan het model is dat de afspraken over meerdere bestuurslagen heen gaan.
+Geonovum werkt bij het maken van informatiemodellen op basis van dit metamodel voor informatiemodellering en naar het Basismodel geo-informatie (NEN3610) wat ook het MIM volgt.
 
 Het metamodel is bestemd voor informatiearchitecten die informatiemodellen maken, informatieanalisten die willen weten wat de betekenis en definitie van informatieobjecten is en mensen die implementaties maken op basis van het model. Voor het werken met dit model is kennis van informatiemodellering is een vereiste. Enige kennis van UML is een pré. Het metamodel richt zich op registraties binnen het overheidsdomein, maar is in bredere context inzetbaar.
 Het metamodel is beschikbaar in versie 1.0. 

@@ -4,9 +4,9 @@
 ###	Initiatie
 
 <div class='note'>
-    BOMOS Initiatie: 
-    
-     Identificatie van nieuwe ideeën (voor bijvoorbeeld een nieuwe specificatie en nieuwe werkgroep) en alle activiteiten die horen bij het succesvol optuigen daarvan (bijv. belangenanalyse, business case, agendering).
+ BOMOS Initiatie: 
+ 
+ Identificatie van nieuwe ideeën (voor bijvoorbeeld een nieuwe specificatie en nieuwe werkgroep) en alle activiteiten die horen bij het succesvol optuigen daarvan (bijv. belangenanalyse, business case, agendering).
 </div>
 
 Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binnen via de helpdesk of de MIM stakeholders georganiseerd in de werkgroep. Kleine wijzigingen die nog backwards compatible zijn met de actuele MIM versie worden binnen het tijdelijk beheer opgelost. Indien de wijziging een grote impact op de standaard heeft valt dit buiten de reguliere beheeropdracht. De beheerorganisatie treedt wel faciliterend op door in dat geval het proces te organiseren om via een additionele opdracht het adaptief en additief onderhoud te kunnen uitvoeren. De beheerorganisatie zelf is al ingericht om het werkveld te betrekken.
@@ -18,9 +18,9 @@ Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binn
 ###	Wensen en Eisen
 
 <div class='note'>
-    BOMOS Wensen en Eisen: 
-    
-     Opstellen van de wensen en eisen aan de te ontwikkelen en te beheren specificatie, ook wel bekend onder de naam Maintenance Requests (MRs).
+ BOMOS Wensen en Eisen: 
+ 
+ Opstellen van de wensen en eisen aan de te ontwikkelen en te beheren specificatie, ook wel bekend onder de naam Maintenance Requests (MRs).
 </div>
 
 Wensen en eisen komen binnen via de helpdesk en aangesloten stakeholders. Binnen het opgestelde plan voor versiebeheer wordt een beheeragenda opgesteld. Binnen gekomen wijzigingsvoorstellen worden gecategoriseerd in:
@@ -36,9 +36,9 @@ De impact van de wijziging op de standaard wordt bepaald. Versiebeheer protocol 
 ###	Uitvoering
 
 <div class='note'>
-    BOMOS Uitvoering: 
-    
-     De daadwerkelijk aanpassingen op basis van de conceptuele oplossingen doorvoeren in de specificatie en eventuele technische invulling.
+ BOMOS Uitvoering: 
+ 
+ De daadwerkelijk aanpassingen op basis van de conceptuele oplossingen doorvoeren in de specificatie en eventuele technische invulling.
 
 </div>
 
@@ -46,7 +46,7 @@ De impact van de wijziging op de standaard wordt bepaald. Versiebeheer protocol 
 
 *Helpdesk* 
 
-Na ontvangst van de vraag bij de  helpdesk Geo-standaarden ontvangt de vraagsteller van Geonovum een ontvangstbevestiging. De helpdeskmedewerker kent aan de melding een actiehouder toe.
+Na ontvangst van de vraag bij de helpdesk van MIM ontvangt de vraagsteller van Geonovum een ontvangstbevestiging. De helpdeskmedewerker kent aan de melding een actiehouder toe.
 
 *Registratie en publicatie*
 
@@ -54,14 +54,14 @@ Alle bij de helpdesk binnen gekomen vragen, dan wel wensen of fouten, worden ger
 
 *Meldingen formulier*
 
-Naast een overzicht van meldingen per standaard kan een gebruiker van een standaard ook per formulier een wens, eis of fout aan ons kenbaar maken. Iedere standaard heeft op de Geonovum hiervoor een formulier beschikbaar. Degene die een melding maakt, vult naast contactgegevens ook het voorstel tot wijziging met een toelichting daarop  in. Het is ook mogelijk bestanden aan de melding toe te voegen.
+Naast een overzicht van meldingen per standaard kan een gebruiker van een standaard ook per formulier een wens, eis of fout aan ons kenbaar maken. Iedere standaard heeft op de Geonovum hiervoor een formulier beschikbaar. Degene die een melding maakt, vult naast contactgegevens ook het voorstel tot wijziging met een toelichting daarop in. Het is ook mogelijk bestanden aan de melding toe te voegen.
 
 ###	Ontwikkeling
 
 <div class='note'>
-    BOMOS Ontwikkeling: 
-    
-     Op conceptueel niveau de inhoudelijke uitwerking van oplossingen voor de ideeën, wensen en eisen opgesteld in voorafgaande fasen. Deze oplossingen zijn zoveel mogelijk los van technologieën bedoeld voor nadere uitwerking in een (nieuwe versie van) de specificatie.
+ BOMOS Ontwikkeling: 
+ 
+ Op conceptueel niveau de inhoudelijke uitwerking van oplossingen voor de ideeën, wensen en eisen opgesteld in voorafgaande fasen. Deze oplossingen zijn zoveel mogelijk los van technologieën bedoeld voor nadere uitwerking in een (nieuwe versie van) de specificatie.
 
 </div>
 
@@ -82,23 +82,23 @@ De MIM beheeragenda stemt waar nodig af met de algemene standaardenagenda.
  De volgende procedurestappen worden voorgesteld (Conform GENERIEK Beheerdocument):
 
 Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen tot aanpassing van en fouten in MIM, indienen bij Geonovum. Wij geven inzicht in de ontvangen meldingen
-en bundelen de verzoeken tot een wijzigingsvoorstel in het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard. Het wijzigingsprotocol (zie volgende paragraaf ) beschrijft het wijzigingsproces  en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. 
+en bundelen de verzoeken tot een wijzigingsvoorstel in het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard. Het wijzigingsprotocol (zie volgende paragraaf ) beschrijft het wijzigingsproces en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. 
 Voor de registratie van meldingen wordt er een GitHub platform ingericht. Een moderator organiseert het beheer van de GitHub. Meldingen worden gecategoriseerd en in procedure genomen.
 De volgende procedurestappen worden voorgesteld (Conform GENERIEK Beheerdocument):
 
-| Status voorstel    | Beschrijving activiteiten  |
+| Status voorstel | Beschrijving activiteiten |
 |--------------------|----------------------------|
-| NIEUW              | Als een gebruiker een melding indient krijgt deze de status “nieuw”.  |
-| TERUGKOPPELING     | De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.  |
-| ERKEND             |Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem.   |
-| BEVESTIGD          |  Geonovum neemt deze melding mee in het wijzigingsproces van de standaard.  |
-| TOEGEWEZEN         | De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard.  |
-| OPGELOST           | De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.  |
-| AFGESLOTEN         | De melding wordt afgesloten in de volgende situaties: |
-|                    |- wanneer de melding is opgenomen in de nieuwe versie van de standaard;|
-|                    |- wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;|
-|                    |- wanneer de fout niet meer relevant wordt geacht voor de standaard.   |
-|                    | De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend.  |
+| NIEUW | Als een gebruiker een melding indient krijgt deze de status “nieuw”. |
+| TERUGKOPPELING | De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren. |
+| ERKEND |Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem. |
+| BEVESTIGD | Geonovum neemt deze melding mee in het wijzigingsproces van de standaard. |
+| TOEGEWEZEN | De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard. |
+| OPGELOST | De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard. |
+| AFGESLOTEN | De melding wordt afgesloten in de volgende situaties: |
+| |- wanneer de melding is opgenomen in de nieuwe versie van de standaard;|
+| |- wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;|
+| |- wanneer de fout niet meer relevant wordt geacht voor de standaard. |
+| | De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe versie van de standaard maar wel een fout/ wens blijft, wordt de status teruggezet op erkend. |
 	
  
 	
@@ -133,33 +133,33 @@ Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies v
 
 Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
 
-| Type            | Toelichting  |Frequentie|
+| Type | Toelichting |Frequentie|
 |-----------------|---|---|
-| X-wijzigingen   | Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.  |maximaal 1 keer per jaar.  |
-| Y-wijzigingen   | Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.  | maximaal 2 keer per jaar.  |
-| Z-wijzigingen   | Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.   | zo spoedig mogelijk na constatering.  |
+| X-wijzigingen | Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible. |maximaal 1 keer per jaar. |
+| Y-wijzigingen | Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. | maximaal 2 keer per jaar. |
+| Z-wijzigingen | Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. | zo spoedig mogelijk na constatering. |
 
 
 Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar. en zijn vindbaar via de Geonovum website en het technisch register (http://register.geostandaarden.nl/). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
 
 Voor het onderhoud en de ondersteuning van een oude versie van een standaard gelden de volgende uitgangspunten:
 
--  Aan een oude versie worden geen nieuwe features toegevoegd na het uitbrengen van een nieuwe versie.Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude standaard in behandeling genomen.
+- Aan een oude versie worden geen nieuwe features toegevoegd na het uitbrengen van een nieuwe versie.Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude standaard in behandeling genomen.
 - De opdrachtgever stelt met advies van de beheerder vast hoelang een oude versie wordt ondersteund en wanneer hij komt te vervallen (decline). Dit betekent dat vragen over het gebruik van de standaard worden beantwoord. De maximale ondersteuningstermijn is twee jaar. Daarna blijft de versie van de standaard wel beschikbaar, maar biedt Geonovum geen ondersteuning meer. 
 
 ###	Documentatie
 
 <div class='note'>
-    BOMOS Documentatie: 
-    
-     Verzorgen van passende neerslag van de resultaten van het primaire beheerproces. Niet alleen de beschikbaarheid van de specificaties, maar bijvoorbeeld ook de mogelijkheid bieden tot een historisch overzicht van verzoeken tot wijzigingen (maintenance requests) en de actuele status daarvan.
+ BOMOS Documentatie: 
+ 
+ Verzorgen van passende neerslag van de resultaten van het primaire beheerproces. Niet alleen de beschikbaarheid van de specificaties, maar bijvoorbeeld ook de mogelijkheid bieden tot een historisch overzicht van verzoeken tot wijzigingen (maintenance requests) en de actuele status daarvan.
 
 </div>
 
 
 ####	Soorten documenten
 
-Het MIM is een Meta Informatiemodel  en is een standaard waarbij door de term informatiemodel te hanteren wordt aangegeven dat het een abstractie (het model) vormt van de abstractie (het model) werkelijkheid zoals beschreven binnen een bepaalde sector/domein. Dit model maakt het mogelijk om Informatiemodellen die een semantische invulling van normen voor sectoren (zoals ruimtelijke ordening, kabels en leidingen, water, etc) te modelleren.
+Het MIM is een Meta Informatiemodel en is een standaard waarbij door de term informatiemodel te hanteren wordt aangegeven dat het een abstractie (het model) vormt van de abstractie (het model) werkelijkheid zoals beschreven binnen een bepaalde sector/domein. Dit model maakt het mogelijk om Informatiemodellen die een semantische invulling van normen voor sectoren (zoals ruimtelijke ordening, kabels en leidingen, water, etc) te modelleren.
 
 De MIM standaard wordt formeel beschreven in een MIM standaarddocument. Publicatieomgeving hiervoor is Respec.
 
@@ -247,14 +247,14 @@ Het team met geo-adviseurs is verantwoordelijk voor de volgende taken; het taken
 *Opleiding, kennis en ervaring*
 -	Academisch werk- en denkniveau, met bij voorkeur een opleiding op het gebied van geodesie, geo-informatiekunde of aanverwant;
 -	Strategisch inzicht in:
-    -	de mogelijkheden van informatietechnologie in het algemeen en geo-informatie en geo-informatietechnologie in het bijzonder;
-    -	de betekenis en de rol van de overheid, het bedrijfsleven en technologische doorbraken bij het tot stand komen van de NGII;
+ -	de mogelijkheden van informatietechnologie in het algemeen en geo-informatie en geo-informatietechnologie in het bijzonder;
+ -	de betekenis en de rol van de overheid, het bedrijfsleven en technologische doorbraken bij het tot stand komen van de NGII;
 -	Vooraanstaande kennis van, ervaring en affiniteit met:
-    -	(onderdelen van) de NGII, waaronder de geo-standaarden van ISO, CEN en NEN, en inzicht in hun onderlinge samenhang;
-    -	informatieanalyse en -modellering in UML en GML;
-    -	het geo-werkveld;
-    -	businessprocessen van de overheid;
-    -	projectmatig werken en projectgestuurde organisaties;
+ -	(onderdelen van) de NGII, waaronder de geo-standaarden van ISO, CEN en NEN, en inzicht in hun onderlinge samenhang;
+ -	informatieanalyse en -modellering in UML en GML;
+ -	het geo-werkveld;
+ -	businessprocessen van de overheid;
+ -	projectmatig werken en projectgestuurde organisaties;
 -	Minimaal 5 jaar ervaring in een soortgelijke functie.
 
 *Competenties*

@@ -3,13 +3,13 @@
 ### Visie
 
 <div class='note'>
-    BOMOS  Visie: 
-    
-    Inhoudelijke visie ontwikkelen over de richting van de ontwikkeling. De plek op de horizon op de lange termijn.
+ BOMOS Visie: 
+ 
+ Inhoudelijke visie ontwikkelen over de richting van de ontwikkeling. De plek op de horizon op de lange termijn.
 </div>
 
 
-Veel verschillende partijen maken meervoudig gebruik van gegevens. Het is daarbij van belang dat de onderlinge samenhang en betekenis van de gegevens binnen een bepaalde context wordt beschreven. Dit gebeurt met behulp van informatiemodellen. Het doel van een informatiemodel is een beschrijving van (de informatie over) de werkelijkheid, los van implementatieaspecten. Het  is h  van grote meeerwaarde dat informatiemodellen op dezelfde manier beschreven worden, gebaseerd op dezelfde standaard”.
+Veel verschillende partijen maken meervoudig gebruik van gegevens. Het is daarbij van belang dat de onderlinge samenhang en betekenis van de gegevens binnen een bepaalde context wordt beschreven. Dit gebeurt met behulp van informatiemodellen. Het doel van een informatiemodel is een beschrijving van (de informatie over) de werkelijkheid, los van implementatieaspecten. Het is h van grote meeerwaarde dat informatiemodellen op dezelfde manier beschreven worden, gebaseerd op dezelfde standaard”.
 
 **Belang Meta Informatie Modellering (MIM)**
 
@@ -30,9 +30,9 @@ De HIM is als referentiemateriaal ook bruikbaar buiten het DSO-domein
 ###	Governance
 
 <div class='note'>
-    BOMOS Governance: 
-    
-    Beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties.
+ BOMOS Governance: 
+ 
+ Beleid uitzetten over de eigen bestuurlijke organisatie (zoals de rechtsvorm); het huishoudelijke reglement (de charter), maar ook allianties vormen met andere organisaties.
 </div>
 
 
@@ -41,7 +41,7 @@ MIM wordt beheerd door Geonovum in opdracht van het ministerie van Binnenlandse 
 
 **Coördinatieoverleg**
 
-Het ministerie van BZK is opdrachtgever voor het beheer.  
+Het ministerie van BZK is opdrachtgever voor het beheer. 
 Periodiek wordt er met de opdrachtgever overlegd over de voortgang en de te plannen activiteiten.
 
 
@@ -49,7 +49,7 @@ Periodiek wordt er met de opdrachtgever overlegd over de voortgang en de te plan
 
 **Afstemmingsoverleg**
 
-Voor het MIM wordt er een afstemmingsoverleg ingesteld wat twee keer per jaar bij elkaar komt.  De rol van dit overleg is het op operationeel niveau delen van kennis over MIM.
+Voor het MIM wordt er een afstemmingsoverleg ingesteld wat twee keer per jaar bij elkaar komt. De rol van dit overleg is het op operationeel niveau delen van kennis over MIM.
 Aan dit overleg nemen de senior supplier en senior users deel, als ook de beheerder van MIM. 
 
 Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepassen.
@@ -58,11 +58,11 @@ Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepa
 ### Financiën
 
 <div class='note'>
-    BOMOS Financiën: 
-    
-    Een financieel model voor de lange termijn hebben die   opbrengsten garandeert in overeenstemming met de behoefte.
+ BOMOS Financiën: 
+ 
+ Een financieel model voor de lange termijn hebben die opbrengsten garandeert in overeenstemming met de behoefte.
 </div>
 
 
-Het  beheer van MIM wordt bekostigd vanuit het ministerie van BZK. 
+Het beheer van MIM wordt bekostigd vanuit het ministerie van BZK. 
 Naast dit beheerplan is wordt periodiek een offerte opgesteld met daarbij een rekenmodel wat gebaseerd is op dit beheerplan en een begroting oplevert voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld (meestal jaarlijks).

@@ -4,22 +4,22 @@
 ### Promotie
 
 <div class='note'>
-    BOMOS Promotie: 
-    
-    Het uitdragen van nut/noodzaak/voordelen van de standaard.
+ BOMOS Promotie: 
+ 
+ Het uitdragen van nut/noodzaak/voordelen van de standaard.
 </div>
 
 
-MIM is in de beginfase vooral geborgd in het DSO en van daar uit in het Nederlandse landschap van standaarden. Zie daarvoor hoofdstuk 3 Strategie. Hierdoor krijgt het verhaal naar de gebruikers een stevig fundament. Het beheer van MIM  is een verantwoordelijkheid van Geonovum maar Geonovum zal daarin de samenwerking opzoeken met Kadaster en VNG Realisatie.
+MIM is in de beginfase vooral geborgd in het DSO en van daar uit in het Nederlandse landschap van standaarden. Zie daarvoor hoofdstuk 3 Strategie. Hierdoor krijgt het verhaal naar de gebruikers een stevig fundament. Het beheer van MIM is een verantwoordelijkheid van Geonovum maar Geonovum zal daarin de samenwerking opzoeken met Kadaster en VNG Realisatie.
 
 Binnen de context van bij het tijdelijk beheer betrokken organisaties, zie ook hoofdstuk 4, wordt MIM actief uitgerold. Middels presentaties, workshops, artikelen wordt bekendheid verkregen. Middels toepassingscharters wordt gebruik van MIM afgesproken binnen bepaalde domeinen.
 
 ###	Publicatie
 
 <div class='note'>
-    BOMOS Publicatie: 
-    
-     Het vindbaar/kenbaar maken van de standaard en de actuele stand van zaken, bij voorkeur op Internet.
+ BOMOS Publicatie: 
+ 
+ Het vindbaar/kenbaar maken van de standaard en de actuele stand van zaken, bij voorkeur op Internet.
 </div>
 
 
@@ -41,9 +41,9 @@ Ook in de NORA-omgeving is een pagina opgenomen waar MIM wordt genoemd en waar w
 ###	Klachtenafhandeling
 
 <div class='note'>
-    BOMOS Klachtenafhandeling: 
-    
-     Het garanderen van het serieus nemen van klachten door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggesties.
+ BOMOS Klachtenafhandeling: 
+ 
+ Het garanderen van het serieus nemen van klachten door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggesties.
 </div>
 
 Klachten met betrekking tot de standaarden zijn van de volgende aard:

@@ -4,9 +4,9 @@
 ###	Opleiding en advies
 
 <div class='note'>
-    BOMOS Opleiding: 
-    
-    Het bieden van opleidingsmogelijkheden aan verschillende gebruikersgroepen variërend van een informatie bijeenkomst tot aan een (online) cursus.
+ BOMOS Opleiding: 
+ 
+ Het bieden van opleidingsmogelijkheden aan verschillende gebruikersgroepen variërend van een informatie bijeenkomst tot aan een (online) cursus.
 </div>
 
 
@@ -28,9 +28,9 @@ Binnen beheer wordt workshopmateriaal ontwikkeld. Dit materiaal kan ook door der
 ### Helpdesk
 
 <div class='note'>
-    BOMOS Helpdesk: 
-    
-     Het bieden van ondersteuning aan verschillende gebruikersgroepen, bijvoorbeeld telefonisch of per e-mail volgens een service level agreement (bijv. beantwoording van vragen binnen 24 uur). Een frequently asked questionslijst opstellen en bijhouden kan ook een helpdeskactiviteit zijn.
+ BOMOS Helpdesk: 
+ 
+ Het bieden van ondersteuning aan verschillende gebruikersgroepen, bijvoorbeeld telefonisch of per e-mail volgens een service level agreement (bijv. beantwoording van vragen binnen 24 uur). Een frequently asked questionslijst opstellen en bijhouden kan ook een helpdeskactiviteit zijn.
 </div>
 
 ![Helpdesk](media/helpdesk.png)
@@ -52,14 +52,14 @@ De rol van moderator wordt opgepakt door de beheerder van de standaard.
 
 *Product owners*
 
-Dit zijn vertegenwoordigers van Kadaster, VNG Realisatie en Geonovum die samen verantwoordelijk zijn voor het coördineren van wijzigingen van de standaard op basis van behoeften uit het werkveld.  Ze onderhouden de backlog ten behoeve van ontwikkeling en maken daaruit voorstellen voor de inhoud van nieuwe versies van de standaard.
+Dit zijn vertegenwoordigers van Kadaster, VNG Realisatie en Geonovum die samen verantwoordelijk zijn voor het coördineren van wijzigingen van de standaard op basis van behoeften uit het werkveld. Ze onderhouden de backlog ten behoeve van ontwikkeling en maken daaruit voorstellen voor de inhoud van nieuwe versies van de standaard.
 
 ### Moduleontwikkeling (tooling) 
 
 <div class='note'>
-    BOMOS Moduleontwikkeling: 
-    
-    (Stimuleren van) de ontwikkeling van breed te verspreiden applicaties (software) die de standaard implementeren. Dit kan door het stimuleren van de markt om software te ontwikkelen, of, als de markt  niet beweegt, zelf software te ontwikkelen en te verspreiden om de markt in beweging te krijgen.
+ BOMOS Moduleontwikkeling: 
+ 
+ (Stimuleren van) de ontwikkeling van breed te verspreiden applicaties (software) die de standaard implementeren. Dit kan door het stimuleren van de markt om software te ontwikkelen, of, als de markt niet beweegt, zelf software te ontwikkelen en te verspreiden om de markt in beweging te krijgen.
 </div>
 
 Het MIM wordt toegepast in een software-omgeving voor het ontwikkelen van UML modellen. Voor deze toepassing zijn er voldoende internationale softwarepakketten. Voor het faciliteren van het MIM conform werken in die pakketten is er een MIM profiel gemaakt dat geimporteerd kan worden. 
@@ -69,9 +69,9 @@ UML en ook MIM ondersteunt een model driven approach (MDA) waarbij vanuit de UML
 ###	Pilot
 
 <div class='note'>
-    BOMOS Pilot: 
-    
-     Proeven met de implementatie van de specificaties. Bij sommige standaardisatieorganisaties is het verplicht dat er één of meerdere pilots zijn geweest voordat de standaard officieel vrijgegeven wordt.
+ BOMOS Pilot: 
+ 
+ Proeven met de implementatie van de specificaties. Bij sommige standaardisatieorganisaties is het verplicht dat er één of meerdere pilots zijn geweest voordat de standaard officieel vrijgegeven wordt.
 </div>
 
 Voor het MIM worden geen pilots gedaan
@@ -80,9 +80,9 @@ Voor het MIM worden geen pilots gedaan
 ### Validatie & Certificatie
 
 <div class='note'>
-    BOMOS Validatie & Certificatie: 
-    
-     Het bieden van mogelijkheden om de correctheid van de implementaties te testen (validatie). Daaraan kan een officieel traject verbonden worden wat leidt tot certificatie van een organisatie of  product. Ook verplicht stellen van het doorlopen van validatie en certificatietrajecten behoort tot de mogelijkheden.
+ BOMOS Validatie & Certificatie: 
+ 
+ Het bieden van mogelijkheden om de correctheid van de implementaties te testen (validatie). Daaraan kan een officieel traject verbonden worden wat leidt tot certificatie van een organisatie of product. Ook verplicht stellen van het doorlopen van validatie en certificatietrajecten behoort tot de mogelijkheden.
 </div>
 
 Voor het MIM komt er in deze fase geen officiële validator of certificatie autoriteit. De genoemde Imvertor plugin software zal wel een validatie functionaliteit bevatten. Deze is echter vooral faciliterend en adviserend voor een correcte toepassing.
