@@ -12,5 +12,5 @@ Dit document is aan verandering onderhevig. Het versiebeheer van het document ge
 
 | **Versie** | **Datum**      | **Status** | **Bewerking**                   | **Toelichting**                   |
 |------------|----------------|------------|---------------------------------|-----------------------------------| 
-| 1.0        | 01-04-2020     | definitief    | Initieel document               |  |
-                           
+| 1.0        | 01-04-2020    | definitief     | Initieel document           |  
+| 1.1        | 22-06-2021    | aanpassingen   | Actualisering             |                         
