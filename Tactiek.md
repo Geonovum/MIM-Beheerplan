@@ -108,7 +108,7 @@ figuur:
 
 
 Een van de activiteiten in het beheer is het uitdragen van deze standaard, zodat meer en meer volgens dezelfde filosofie informatiemodellen worden ontwikkeld. Er worden op dit moment de volgende wegen bewandeld om tot een bredere adoptie en erkenning te komen:
-- Opname op de Lijst met Aanbevolen Standaarden van het Forum Standaardisatie. Dit is geëffectueerd per 8 juli 2021. Doordat MIM nu op deze lijst staat, zal MIM breder gevonden en dan ook toegepast worden.
+- Opname op de Lijst met Aanbevolen Standaarden van Forum Standaardisatie. Dit is geëffectueerd per 7 juli 2021. Doordat MIM nu op deze lijst staat, zal MIM breder gevonden en dan ook toegepast worden.
 - Postionering in de NORA-architectuur
 
 
