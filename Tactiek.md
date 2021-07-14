@@ -27,7 +27,7 @@ Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In 
 
 De NORA, de Nederlandse Overheid Referentie Architectuur refereert ook naar MIM als een gemeenschappelijk vetrekpuntvoor het opstellen van inforamtiemodellen (https://www.noraonline.nl/wiki/MIM_(Metamodel_voor_informatiemodellen) en noemt ook overheidsorganisaties die MIM toepassen.
 
-Er is overleg met het Forum voor Standaardisatie of MIM kan worden toegevoegd aan de Lijst met Aanbevolen standaarden van het Forum voor Standaardisatie https://www.forumstandaardisatie.nl/open-standaarden/aanbevolen).
+MIM staat op de Lijst met Aanbevolen standaarden van Forum Standaardisatie hhttps://www.forumstandaardisatie.nl/open-standaarden/mim. Wat dit betekent kun je onder meer lezen op https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/ 
 
 
 
@@ -103,12 +103,12 @@ figuur:
 <div class='note'>
  BOMOS Adoptie & erkenning: 
  
- Het opstellen van een adoptiestrategie om ervoor te zorgen dat de markt de standaarden adopteert. Onderdeel van een adoptiestrategie kan zijn het nastreven van erkenning door externe ’statusverleners’ bijvoorbeeld de ‘pas toe of leg uit’ lijst6, of om de standaard uit te brengen als NEN-document (NTA, NPR of norm).
+ Het opstellen van een adoptiestrategie om ervoor te zorgen dat de markt de standaarden adopteert. Onderdeel van een adoptiestrategie kan zijn het nastreven van erkenning door externe ’statusverleners’ bijvoorbeeld de ‘pas toe of leg uit’ lijst, of om de standaard uit te brengen als NEN-document (NTA, NPR of norm).
 </div>
 
 
 Een van de activiteiten in het beheer is het uitdragen van deze standaard, zodat meer en meer volgens dezelfde filosofie informatiemodellen worden ontwikkeld. Er worden op dit moment de volgende wegen bewandeld om tot een bredere adoptie en erkenning te komen:
-- Verzoek tot opname op de Lijst met Aanbevolen Standaarden van het Forum Standaardisatie
+- Opname op de Lijst met Aanbevolen Standaarden van het Forum Standaardisatie. Dit is geëffectueerd per 8 juli 2021. Doordat MIM nu op deze lijst staat, zal MIM breder gevonden en dan ook toegepast worden.
 - Postionering in de NORA-architectuur
 
 
