@@ -17,11 +17,6 @@ Het MIM-metamodel verschaft een gemeenschappelijk vertrekpunt voor het opstellen
 
 MIM richt zich specifiek op objectmodellering. Voor informatiemodellen die daar niet op gericht zijn en bijvoorbeeld op documentmodellering, is MIM niet richtinggevend.
 
-**Belang Handreiking Informatie Modelleren (HIM)**
-
-De Handreiking voor Informatie Modelleren richt zich specifiek op informatiemodellen voor het beschrijven van informatieproducten of datasets die gedeeld c.q. uitgewisseld, of geraadpleegd worden in de context van het DSO. Het zijn informatieproducten waarvan standaardisatie nodig is in het kader van interoperabiliteit. Specifiek is de handreiking voor informatiehuizen en de vanuit die huizen ontsloten informatieproducten. De HIM maakt daarbij gebruik van het MIM-metamodel. 
-De HIM is als referentiemateriaal ook bruikbaar buiten het DSO-domein 
-
 
 ![Toepassing MIM](media/Toepassing_MIM.png)
  
