@@ -31,7 +31,7 @@ Wensen en eisen komen binnen via de helpdesk en aangesloten stakeholders. Binnen
 
 Correctief en preventief onderhoud wordt opgepakt door tijdelijk beheer en aldaar op de backlog geplaatst. Additief en adaptief onderhoud wordt via de product owners op de backlog van ontwikkeling geplaatst. Afhankelijk van de omvang van deze wijzigingen zal bepaald worden of hiervoor apart budget voor nodig is.
 
-De impact van de wijziging op de standaard wordt bepaald. Versiebeheer protocol en beheeragenda bepalen wanneer een wijzigingsvoorstel wordt geïmplementeerd.
+De impact van de wijziging op de standaard wordt bepaald. Versiebeheerprotocol en beheeragenda bepalen wanneer een wijzigingsvoorstel wordt geïmplementeerd.
 
 ###	Uitvoering
 
@@ -131,7 +131,7 @@ Fasen wijzigingsproces
 
 Bij een standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingendocumenteren wij en leggen wij vast in de uitgebrachte versie van de standaard als release notes. Degebruiker kan zo nagaan op welke plaatsen de standaard gewijzigd is.
 
-Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
+Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bijvoorbeeld: versie 1.1.2 (=X.Y.Z):
 
 | Type | Toelichting |Frequentie|
 |-----------------|---|---|
@@ -139,8 +139,9 @@ Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bi
 | Y-wijzigingen | Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. | maximaal 2 keer per jaar. |
 | Z-wijzigingen | Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. | zo spoedig mogelijk na constatering. |
 
+Vanaf 2022 is het streven om ieder kwartaal een Z-versie uit te brengen, tenzij er een Y- of X-versie wordt gepland. Deze hebben meer doorlooptijd nodig. Door bij Z-versies over te gaan op 'continuous delivery' kunnen kleine technische wijzigingen sneller beschikbaar gesteld worden aan de community. 
 
-Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar. en zijn vindbaar via de Geonovum website en het technisch register (http://register.geostandaarden.nl/). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
+Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar. en zijn vindbaar via de Geonovum website en het [technisch register](http://register.geostandaarden.nl/). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
 
 Voor het onderhoud en de ondersteuning van een oude versie van een standaard gelden de volgende uitgangspunten:
 
@@ -159,9 +160,9 @@ Voor het onderhoud en de ondersteuning van een oude versie van een standaard gel
 
 ####	Soorten documenten
 
-Het MIM is een Meta Informatiemodel en is een standaard waarbij door de term informatiemodel te hanteren wordt aangegeven dat het een abstractie (het model) vormt van de abstractie (het model) werkelijkheid zoals beschreven binnen een bepaalde sector/domein. Dit model maakt het mogelijk om Informatiemodellen die een semantische invulling van normen voor sectoren (zoals ruimtelijke ordening, kabels en leidingen, water, etc) te modelleren.
+MIM is een **Meta**Informatiemodel en is een standaard waarbij door de term informatiemodel te hanteren wordt aangegeven dat het een abstractie (het model) vormt van de abstractie (het model) werkelijkheid zoals beschreven binnen een bepaalde sector/domein. Dit model maakt het mogelijk om Informatiemodellen die een semantische invulling van normen voor sectoren (zoals ruimtelijke ordening, kabels en leidingen, water, etc) te modelleren.
 
-De MIM standaard wordt formeel beschreven in een MIM standaarddocument. Publicatieomgeving hiervoor is Respec.
+De MIM standaard wordt formeel beschreven in een [MIM standaarddocument](https://docs.geostandaarden.nl/mim/mim/). Publicatieomgeving hiervoor is Respec.
 
 MIM gerelateerde documenten worden gepubliceerd op de MIM pagina van de website van Geonovum.
 dit betreft onder meer :
@@ -197,7 +198,7 @@ Imvertor van Armatiek is een sofwaretool voor Model Driven generatie van afgelei
 
 Een gebruiker kan de conformiteit van de implementatie van MIM laten toetsen door expertbeoordeling, dit is echter nog niett formeel en structureel ingericht. 
 
-Er is een testsuite gemaakt voor het toetsen van MIM conformiteit. De testsuite is vooralsnog alleen voor intern gebruik bij Geonovum, waarbij dit document wordt gehanteerd: https://github.com/Geonovum/MIM-Werkomgeving/tree/master/MIM-Conformiteitstoets/toetsdocumenten.
+Er is een [testsuite](https://github.com/Geonovum/MIM-Werkomgeving/tree/master/MIM-Conformiteitstoets/toetsdocumenten) gemaakt voor het toetsen van MIM conformiteit. De testsuite is vooralsnog alleen voor intern gebruik bij Geonovum.
 
 De IMvertor software van Armatiek heeft een technische MIM validatie. De validatie heeft geen status binnen het MIM beheer maar helpt het werkveld wel in een juiste MIM toepassing.
 
