@@ -4,7 +4,7 @@
 ###	Leeswijzer
 
 Dit document is een plan op basis waarvan het beheer van de standaard Metamodel Informatiemodellering (MIM) wordt uitgevoerd. Dit plan geeft inzicht in de inhoud en omvang van de relevante beheerprocessen en welke middelen en functieprofielen hiervoor nodig zijn.
-Dit document beschrijft hoe Geonovum MIM (Metamodel Informatie Modellering) beheert.
+Dit document beschrijft hoe Geonovum MIM (Metamodel Informatiemodellering) beheert.
 
 ### Standaarden voor informatie
 
@@ -17,10 +17,10 @@ Bij de ontwikkeling van het Digitaal Stelsel Omgevingswet (DSO) is duidelijk naa
 </div>
 
 Met MIM hebben we een gemeenschappelijk vertrekpunt opgesteld voor het maken van informatiemodellen. Het model bevat duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt tegelijkertijd ruimte aan de verschillende niveaus van modellering. Bijzonder aan het model is dat de afspraken over meerdere bestuurslagen heen gaan.
-Geonovum werkt bij het maken van informatiemodellen op basis van dit metamodel voor informatiemodellering en naar het Basismodel geo-informatie (NEN3610) wat ook het MIM volgt.
+Geonovum werkt bij het maken van informatiemodellen op basis van dit Metamodel informatiemodellering en het Basismodel geo-informatie (NEN3610) wat ook het MIM volgt.
 
 Het metamodel is bestemd voor informatiearchitecten die informatiemodellen maken, informatieanalisten die willen weten wat de betekenis en definitie van informatieobjecten is en mensen die implementaties maken op basis van het model. Voor het werken met dit model is kennis van informatiemodellering is een vereiste. Enige kennis van UML is een pré. Het metamodel richt zich op registraties binnen het overheidsdomein, maar is in bredere context inzetbaar.
-Het metamodel is beschikbaar in versie 1.0. 
+Het metamodel is beschikbaar in versie 1.1. 
 
 
 ### BOMOS
@@ -44,16 +44,11 @@ BOMOS onderscheidt verschillende levenscyclusfases waarin een standaard zich kan
 ![levenscyclus](media/levenscyclus.png)
 
 De MIM-standaard bevindt zich in de fase van implementatie en groei van de standaard. BOMOS zegt daar het volgende over:
-"In deze fase kiezen gebruikers bewust voor de implementatie van de
-standaard. In het beheer wordt ook rekening gehouden met het feit dat
-niet alle gebruikers beschikken over een volwaardig kennisniveau van de
-standaard. Beheer betekent in deze fase ook de ondersteuning en het
-informeren van de gebruikers. Marketingtermen als ‘early majority’ zijn in
-deze fase van toepassing. Uw activiteiten zijn gericht op meer professionele
-adoptie en professionalisatie van de open beheerprocessen, zodat bij
-opschaling van het gebruik alle partijen aangehaakt blijven en de processen
-transparant verlopen. Registraties van gebruikers/ afnemers/ experts etc.
-worden steeds belangrijker."
+"In deze fase kiezen gebruikers bewust voor de implementatie van de standaard. In het beheer wordt ook rekening gehouden met het feit dat
+niet alle gebruikers beschikken over een volwaardig kennisniveau van de standaard. Beheer betekent in deze fase ook de ondersteuning en het
+informeren van de gebruikers. Marketingtermen als ‘early majority’ zijn in deze fase van toepassing. Uw activiteiten zijn gericht op meer professionele
+adoptie en professionalisatie van de open beheerprocessen, zodat bij opschaling van het gebruik alle partijen aangehaakt blijven en de processen
+transparant verlopen. Registraties van gebruikers/ afnemers/ experts etc. worden steeds belangrijker."
 
 
 
