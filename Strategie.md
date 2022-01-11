@@ -65,4 +65,4 @@ Dit overleg kan worden uitgebreid met andere senior users als die MIM gaan toepa
 
 
 Het beheer van MIM wordt bekostigd vanuit het ministerie van BZK. 
-Naast dit beheerplan is wordt periodiek een offerte opgesteld met daarbij een rekenmodel wat gebaseerd is op dit beheerplan en een begroting oplevert voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld (meestal jaarlijks).
+Naast dit beheerplan is wordt jaarlijks een offerte opgesteld voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld.

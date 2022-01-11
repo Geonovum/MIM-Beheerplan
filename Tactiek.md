@@ -9,7 +9,7 @@
 </div>
 
 
-De community van MIM (en HIM) omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
+De community van MIM omvat geen eindgebruikers van informatie maar specialisten die zich bezighouden met het opstellen van informatiemodellen. 
 Een aantal relevante stakeholders:
 - Het ministerie van BZK
 - DSO - Digitaal Stelsel Omgevingswet
@@ -21,13 +21,10 @@ Een aantal relevante stakeholders:
 - Werkgroep GAB – Gemeenschappelijke Afspraken Berichten
 - en vele andere.
 
-Er is door ArchiXL en Armatiek initiatief genomen om tot een concrete mim-communty te komen. Daarvoor is een website gelanceerd: https://www.mim-community.nl/. 
+Er is door ArchiXL en Armatiek initiatief genomen om tot een concrete [mim-communty](https://www.mim-community.nl/) te komen. 
 
-Daarnaast is er de ambitie om MIM uit te dragen als een nationale standaard. In dat geval zijn er ook vele andere overheidsorganisaties die MIM (gaan) toepassen. 
+Daarnaast is MIM opgenomen op de [Lijst met Aanbevolen Standaarden](https://www.forumstandaardisatie.nl/open-standaarden/mim) van Forum Standaardisatie. Wat dit betekent kun je onder meer lezen op https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/ 
 
-De NORA, de Nederlandse Overheid Referentie Architectuur refereert ook naar MIM als een gemeenschappelijk vetrekpuntvoor het opstellen van inforamtiemodellen (https://www.noraonline.nl/wiki/MIM_(Metamodel_voor_informatiemodellen) en noemt ook overheidsorganisaties die MIM toepassen.
-
-MIM staat op de Lijst met Aanbevolen standaarden van Forum Standaardisatie hhttps://www.forumstandaardisatie.nl/open-standaarden/mim. Wat dit betekent kun je onder meer lezen op https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/standaardisatie/open-standaarden/ 
 
 
 
@@ -58,8 +55,7 @@ De belangrijkste partijen waarmee in het kader van MIM wordt samengewerkt zijn V
 
 De Nederlandse Overheid Referentie Architectuur (NORA) geeft algemene architectuurprincipes voor domeinarchitecturen, zoals voor het Rijk (MARIJ), provincies (PETRA) en gemeenten (GEMMA). 
 
-De NORA-architecten hebben interesse in MIM en het idee is dat binnen de NORA-wiki een pagina over MIM wordt opgenomen die door Geonovum wordt beheerd. Definitieve werkafspraken moeten hierover worden gemaakt.
-
+De NORA refereert ook naar MIM als een [gemeenschappelijk vertrekpunt voor het opstellen van informatiemodellen](https://www.noraonline.nl/wiki/MIM_(Metamodel_voor_informatiemodellen)) en noemt ook overheidsorganisaties die MIM toepassen.
 
 ####	Raamwerk van geo-standaarden niet van toepassing
 
