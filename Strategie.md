@@ -9,7 +9,7 @@
 </div>
 
 
-Veel verschillende partijen maken meervoudig gebruik van gegevens. Het is daarbij van belang dat de onderlinge samenhang en betekenis van de gegevens binnen een bepaalde context wordt beschreven. Dit gebeurt met behulp van informatiemodellen. Het doel van een informatiemodel is een beschrijving van (de informatie over) de werkelijkheid, los van implementatieaspecten. Het is h van grote meeerwaarde dat informatiemodellen op dezelfde manier beschreven worden, gebaseerd op dezelfde standaard”.
+Veel verschillende partijen maken meervoudig gebruik van gegevens. Het is daarbij van belang dat de onderlinge samenhang en betekenis van de gegevens binnen een bepaalde context wordt beschreven. Dit gebeurt met behulp van informatiemodellen. Het doel van een informatiemodel is een beschrijving van (de informatie over) de werkelijkheid, los van implementatieaspecten. Het is van grote meerwaarde dat informatiemodellen op dezelfde manier beschreven worden, gebaseerd op dezelfde standaard”.
 
 **Belang Meta InformatieModellering (MIM)**
 
@@ -31,13 +31,11 @@ MIM richt zich specifiek op objectmodellering. Voor informatiemodellen die daar 
 </div>
 
 
-
-MIM wordt beheerd door Geonovum in opdracht van het ministerie van Binnenlandse Zaken en Koninrijksrelaties (BZK). De MIM-standaard is breed toepasbaar. Kadaster en VNG Realisatie hebben daarbij samen met Geonovum aan de wieg gestaan. In het verdere beheer wordt met deze en andere partijen de samenwerking opgezocht.
+MIM wordt beheerd door Geonovum. De MIM-standaard is breed toepasbaar. Kadaster en VNG Realisatie hebben daarbij samen met Geonovum aan de wieg gestaan. In het verdere beheer wordt met deze en andere partijen binnen de MIM-community de samenwerking opgezocht.
 
 **Coördinatieoverleg**
 
-Het ministerie van BZK is opdrachtgever voor het beheer. 
-Periodiek wordt er met de opdrachtgever overlegd over de voortgang en de te plannen activiteiten.
+Periodiek wordt er in het kader van de subsidieverlening van het Basisprogramma waar het beheer van MIM onder valt gerapporteerd over de voorgang van het beheer. 
 
 
 
@@ -51,5 +49,5 @@ Periodiek wordt er met de opdrachtgever overlegd over de voortgang en de te plan
 </div>
 
 
-Het beheer van MIM wordt bekostigd vanuit het ministerie van BZK. 
-Naast dit beheerplan is wordt jaarlijks een offerte opgesteld voor de benodigde beheeractiviteiten met mensen en middelen voor een looptijd zoals in de offerte staat vermeld.
+Het beheer van MIM wordt bekostigd vanuit de subsidieverlening in het kader van het Basisprogramma. 
+Naast dit beheerplan is wordt jaarlijks een werkplan opgesteld voor de benodigde beheeractiviteiten met mensen en middelen.  
