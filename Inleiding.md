@@ -29,7 +29,7 @@ Het metamodel is beschikbaar in versie 1.1.
 
 
 Geonovum richt de beheerorganisatie in conform BOMOS. Ook het beheer van MIM is op basis van BOMOS ingericht.
-Voor de beheerorganisatie heeft Geonovum een generiek beheerplan opgezet, waar het beherplan van MIM van is afgeleid (https://www.geonovum.nl/uploads/documents/Geonovum%20GENERIEK%20Beheerplan%20geo-standaarden%20v1.1.pdf) 
+Voor de beheerorganisatie heeft Geonovum een generiek beheerplan opgezet, waar het beheerplan van MIM van is afgeleid (https://www.geonovum.nl/uploads/documents/Geonovum%20GENERIEK%20Beheerplan%20geo-standaarden%20v1.1.pdf) 
 
 
 Voor meer informatie over BOMOS zie : https://beslisboom.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden.
@@ -44,6 +44,7 @@ BOMOS onderscheidt verschillende levenscyclusfases waarin een standaard zich kan
 ![levenscyclus](media/levenscyclus.png)
 
 De MIM-standaard bevindt zich in de fase van implementatie en groei van de standaard. BOMOS zegt daar het volgende over:
+
 "In deze fase kiezen gebruikers bewust voor de implementatie van de standaard. In het beheer wordt ook rekening gehouden met het feit dat
 niet alle gebruikers beschikken over een volwaardig kennisniveau van de standaard. Beheer betekent in deze fase ook de ondersteuning en het
 informeren van de gebruikers. Marketingtermen als ‘early majority’ zijn in deze fase van toepassing. Uw activiteiten zijn gericht op meer professionele
