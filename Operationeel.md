@@ -9,7 +9,7 @@
  Identificatie van nieuwe ideeën (voor bijvoorbeeld een nieuwe specificatie en nieuwe werkgroep) en alle activiteiten die horen bij het succesvol optuigen daarvan (bijv. belangenanalyse, business case, agendering).
 </div>
 
-Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binnen via de helpdesk of de MIM stakeholders georganiseerd in de werkgroep. Kleine wijzigingen die nog backwards compatible zijn met de actuele MIM versie worden binnen het tijdelijk beheer opgelost. Indien de wijziging een grote impact op de standaard heeft valt dit buiten de reguliere beheeropdracht. De beheerorganisatie treedt wel faciliterend op door in dat geval het proces te organiseren om via een additionele opdracht het adaptief en additief onderhoud te kunnen uitvoeren. De beheerorganisatie zelf is al ingericht om het werkveld te betrekken.
+Ideeën en wensen over toepassing, gebruik en functionaliteit van MIM komen binnen via de helpdesk of de MIM-community. Kleine wijzigingen die nog backwards compatible zijn met de actuele MIM versie worden binnen het reguliere beheer opgelost. Indien de wijziging een grote impact op de standaard heeft valt wordt deze ter vaststelling aangeboden aan de Programmaraad van Geonovum. 
 
 
 ![beheerorganisatie](media/beheerorganisatie.png)
@@ -146,7 +146,7 @@ Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere vers
 Voor het onderhoud en de ondersteuning van een oude versie van een standaard gelden de volgende uitgangspunten:
 
 - Aan een oude versie worden geen nieuwe features toegevoegd na het uitbrengen van een nieuwe versie.Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude standaard in behandeling genomen.
-- De opdrachtgever stelt met advies van de beheerder vast hoelang een oude versie wordt ondersteund en wanneer hij komt te vervallen (decline). Dit betekent dat vragen over het gebruik van de standaard worden beantwoord. De maximale ondersteuningstermijn is twee jaar. Daarna blijft de versie van de standaard wel beschikbaar, maar biedt Geonovum geen ondersteuning meer. 
+- De beheerder stelt in afstemming met de MIM-community vast hoelang een oude versie wordt ondersteund en wanneer hij komt te vervallen (decline). Dit betekent dat vragen over het gebruik van de standaard worden beantwoord. De maximale ondersteuningstermijn is twee jaar. Daarna blijft de versie van de standaard wel beschikbaar, maar biedt Geonovum geen ondersteuning meer. 
 
 ###	Documentatie
 
