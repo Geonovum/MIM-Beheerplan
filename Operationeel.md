@@ -140,6 +140,7 @@ Geonovum hanteert drie typen versies voor een wijziging van de MIM standaard. Bi
 | Z-wijzigingen | Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. | zo spoedig mogelijk na constatering. |
 
 Vanaf 2022 is het streven om ieder kwartaal een Z-versie uit te brengen, tenzij er een Y- of X-versie wordt gepland. Deze hebben meer doorlooptijd nodig. Door bij Z-versies over te gaan op 'continuous delivery' kunnen kleine technische wijzigingen sneller beschikbaar gesteld worden aan de community. 
+In het geval van een X- of Y-wijziging wordt deze na een consultatie bij de MIM-community ter besluitvorming aan de Programmaraad van Geonovum voorgelegd. 
 
 Na het uitbrengen van een nieuwe versie van de MIM standaard blijven oudere versies beschikbaar. en zijn vindbaar via de Geonovum website en het [technisch register](http://register.geostandaarden.nl/). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
 
